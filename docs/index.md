@@ -1,4 +1,4 @@
-# bin-dabei.ch Hilfe
+# bin-dabei.ch – Hilfe und Handbuch
 
 WARNUNG: **Work in Progress!**
 
@@ -25,4 +25,4 @@ bin-dabei.ch beruht auf einer langjährig bewährten Lösung für den Musikverei
 bin-dabei.ch muss nicht installiert werden, sondern steht zentral auf der Website bin-dabei.ch zur Verfügung.
 Jeder Verein erhält dort eine eigene Subdomain vereinskürzel.bin-dabei.ch, die nur für Mitglieder/Aushilfen des eigenen Vereins zugänglich ist.
 
-Website: [https://www.bin-dabei.ch|www.bin-dabei.ch]
+Website: [https://www.bin-dabei.ch](www.bin-dabei.ch)
