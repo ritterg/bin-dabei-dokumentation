@@ -1,0 +1,32 @@
+site_name: bin-dabei.ch Hilfe
+site_url: https://hilfe.bin-dabei.ch
+repo_name: 'bin-dabei-dokumentation'
+site_author: 'Gerold Ritter'
+theme:
+  name: material
+  language: de
+  logo: /img/bin-dabei-logo.png
+  favicon: /img/favicon.ico
+  font:
+    text: Roboto
+    code: Open Mono
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.inlinehilite
+  - pymdownx.inlinehilite
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Über...: about.md
+  - Was gibt's Neues?: changelog.md
