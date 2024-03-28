@@ -1,7 +1,6 @@
 # bin-dabei.ch Hilfe
 
-> [!WARNING]
-> Work in Progress! ==
+WARNUNG: **Work in Progress!**
 
 ## Mitglieder-Übersicht und Absenzenkontrolle leicht gemacht
 
