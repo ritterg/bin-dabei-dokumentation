@@ -8,7 +8,7 @@ theme:
   logo: /img/bin-dabei-logo.png
   favicon: /img/favicon.ico
   font:
-    text: Roboto
+    text: Source Sans Pro
     code: Open Mono
   features:
     - search.suggest
