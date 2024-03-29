@@ -21,7 +21,6 @@ markdown_extensions:
   - callouts
   - codehilite
   - pymdownx.inlinehilite
-  - pymdownx.inlinehilite
   - footnotes
   - attr_list
   - md_in_html
@@ -31,3 +30,13 @@ nav:
   - Home: index.md
   - Über...: about.md
   - Was gibt's Neues?: changelog.md
+  - Für Benutzer:innen: 
+    - Übersicht: user/index.md
+    - Einschreiben für Anlässe: user/einschreiben.md
+    - Probenplan als PDF: user/probenplan.md
+    - Probenplan als Kalender-Abo: user/kalenderabo.md
+    - Email an alle: user/email.md
+    - Anlassinformationen: user/anlassinformationen.md
+  - Für Admins: 
+    - Übersicht: admin/index.md
+  - Notenverwaltung: noten/index.md
