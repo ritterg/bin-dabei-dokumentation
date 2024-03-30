@@ -39,6 +39,9 @@ nav:
     - Anlassinformationen: user/anlassinformationen.md
   - Für Admins: 
     - Übersicht: admin/index.md
+    - Benutzer:innen: admin/benutzer.md
+    - Anlässe: admin/anlaesse.md
+    - Verein: admin/verein.md
     - Import: admin/import.md
     - Export: admin/export.md
   - Notenverwaltung: noten/index.md
