@@ -18,7 +18,6 @@ extra_css:
   - stylesheets/extra.css
 markdown_extensions:
   - admonition
-  - callouts
   - codehilite
   - pymdownx.inlinehilite
   - footnotes
@@ -36,8 +35,10 @@ nav:
     - Probenplan als Kalender-Abo: user/kalenderabo.md
     - Email an alle: user/email.md
     - Anlassinformationen: user/anlassinformationen.md
+    - Noten: user/noten.md
   - Für Admins: 
     - Übersicht: admin/index.md
+    - Anlassinformationen: admin/anlassinformationen.md
     - Benutzer:innen: admin/benutzer.md
     - Anlässe: admin/anlaesse.md
     - Verein: admin/verein.md
