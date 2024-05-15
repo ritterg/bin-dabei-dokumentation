@@ -3,7 +3,7 @@
 # Neue Funktionen in bin-dabei.ch
 
 12.5.2024  – **Öffentliche Testversion aufgeschaltet**
-- [https://test.bin-dabei.ch|https://test.bin-dabei.ch]]
+- [https://test.bin-dabei.ch](https://test.bin-dabei.ch)
 - Dies ist eine frei benützbare Test-Installation von bin-dabei.ch, in der die verschiedenen Funktionen ausprobiert werden können. Die Installation beinhaltet auch die optionale Notenverwaltung.
 - Es dürfen neue Informationen eingegeben und bestehende geändert oder gelöscht werden.
 - Die Installation wird jede Nacht wieder in einen definierten Ausgangszustand zurückgesetzt.
