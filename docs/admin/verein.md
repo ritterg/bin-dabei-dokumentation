@@ -39,8 +39,21 @@ Wird die Anzahl Tage oder die Liste der Emails freigelassen, werden für diese K
 
 *Email-Tasten nur für Admins*: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
 
+*Anwesenheiten nur für Admins*: Sollen der Plan und die Liste mit den An- und Abwesenheiten nur für Admins sichtbar sein (um den von gewissen Vereinen befürchteten Effekt "Meine Registerkolleg:innen sind alle abgemeldet, dann komme ich auch nicht" zu verhindern), kann das hier markiert werden.
+
+*Begründung obligatorisch*: Wenn bei einer Abmeldung obligatorisch eine Begründung eingetragen werden soll, kann das hier aktiviert werden.
+
+*Regex für gültige Begründung*: Standardmässig wird als Begründung ein beliebiges Zeichen (ausser Leerzeichen) im Begründungsfeld akzeptiert. Sollen strengere Regeln gelten, kann dies hier mit einem [regulären Ausdruck](https://de.wikipedia.org/wiki/Regulärer_Ausdruck) definiert werden.
+So bewirkt z.B. der reguläre Ausdruck
+```
+\w.*\w
+```
+dass mindestens zwei "echte" Buchstaben (d.h. Satzzeichen zählen nicht) mit oder ohne Leerschlag dazwischen eingegeben werden müssen.
+
+Hat nur eine Wirkung, wenn die Begründung für eine Absage obligatorisch ist (s.o.)
+
 ## Notenverwaltung
-* Nur bei abonnierter Notenverwaltung verfügbar *
+*Nur bei abonnierter Notenverwaltung verfügbar*
 
 ## Aufgebot per Email
 Zu den einzelnen Anlässen kann automatisch eine Email mit dem Aufgebot und allen in bin-dabei.ch verfügbaren Informationen erstellt werden. Die entsprechenden Vorlagen (Templates) für Email-Betreff und Email-Text können hier angepasst werden.
