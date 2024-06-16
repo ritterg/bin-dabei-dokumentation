@@ -39,6 +39,10 @@ Bitte beachten:
 
 Es wird empfohlen, die auf der Seite verlinkte Beispiel-Excel-Datei herunterzuladen und den Import entsprechend dieser Datei aufzubauen.
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+
 Ist die Excel-Datei erstellt, kann diese hochgeladen werden. Wenn die erste Zeile eine Kopfzeile ist, also die Spaltennamen enthält, bitte die Checkbox «Kopfzeile?» ankreuzen, damit diese Zeile nicht importiert wird. Dann auf «Importieren» klicken.
 
 Die Daten aus der Excel-Datei werden eingelesen und in einer Voransicht angezeigt. Wenn die dargestellten Daten in Ordnung sind, kann der Import mit Klick auf «Daten ok, importieren» endgültig ausgeführt werden.  
