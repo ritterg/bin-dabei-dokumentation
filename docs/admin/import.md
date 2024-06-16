@@ -4,7 +4,7 @@
 
 ## Benutzer:innen importieren
 
-Gerade für die Ersteinrichtung können Benutzer:innen aus einer Excel-Datei importiert werden, statt sie einzeln manuell anzulegen.
+Speziell für die Ersteinrichtung können Benutzer:innen aus einer Excel-Datei importiert werden, statt sie einzeln manuell anzulegen.
 Die Spalten der Excel-Datei müssen folgendermassen angelegt sein:
 ```
 Vorname | Nachname | Email | Instrument/Stimme
