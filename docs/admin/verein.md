@@ -10,7 +10,7 @@ Die Felder **Adresse 1**, **Adresse 2**, **PLZ**, **Ort**, **Land**, **Telefon**
 Als **Logo** kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird das Logo automatisch auf 45px Höhe verkleinert.
 
 ## Plan
-Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können **Breite** (Anzahl Spalten) und **Höhe** (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden.
+Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können **Breite** (Anzahl Spalten) und **Höhe** (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden (standardmässig sind 15 Spalten und 12 Zeilen eingetragen).
 
 ## Abmeldungen und Warnungen
 
