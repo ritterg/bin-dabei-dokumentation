@@ -3,20 +3,20 @@
 # Vereinseinstellungen verwalten
 
 ## Vereinsangaben
-Das Feld "Name" ist obligatorisch und wird als Titel, im Kalender etc. angezeigt.
+Das Feld *Name* ist obligatorisch und wird als Titel, im Kalender etc. angezeigt.
 
-Die Felder Adresse 1, Adresse 2, PLZ, Ort, Land, Telefon, Email, Website dienen vor allem internen Zwecken und sind optional.
+Die Felder *Adresse 1*, *Adresse 2*, *PLZ*, *Ort*, *Land*, *Telefon*, *Email*, *Website* dienen vor allem internen Zwecken und sind optional.
 
-Als Logo kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird das Logo automatisch auf 45px Höhe verkleinert.
+Als *Logo* kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird das Logo automatisch auf 45px Höhe verkleinert.
 
 ## Plan
-Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können Breite (Anzahl Spalten) und Höhe (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden.
+Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können *Breite* (Anzahl Spalten) und *Höhe* (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden.
 
 ## Abmeldungen und Warnungen
 
 ### Spätestmögliche Abmeldung
 
-Her kann eingestellt werden, wieviele Stunden vor einem Anlass noch eine Abmeldung per bin-dabei.ch möglich ist (mit der Idee, dass ganz kurzfristige Abmeldungen direkt den Verantwortlichen mitgeteilt werden sollten).
+Hier kann eingestellt werden, wieviele Stunden vor einem Anlass noch eine Abmeldung per bin-dabei.ch möglich ist (mit der Idee, dass ganz kurzfristige Abmeldungen direkt den Verantwortlichen mitgeteilt werden sollten).
 
 Wenn ein Konzert um 20:00 beginnt und für Auftritte eine Grenze von 2 Stunden eingestellt ist, sind die An- und Abwesenheiten für dieses Konzert ab 18:00 gesperrt.
 
@@ -33,6 +33,11 @@ Wird die Anzahl Tage oder die Liste der Emails freigelassen, werden für diese K
 
 
 ## Andere Einstellungen
+*Bezeichnung Probenplan:* Wenn das PDF mit den Terminen einen anderen Titel als "Probenplan" tragen soll (z.B. "Programm"), kann dieser hier eingetragen werden. Wird nichts eingetragen, wird standardmässig "Probenplan" verwendet.
+
+*Bezeichnung Abgesagt:* Anlässe können als "Abgesagt" markiert werden. Damit wird ein Anlass nicht gelöscht, sondern durchgestrichen dargestellt und der Titel mit einem vorangestellten Text versehen, der hier definiert ist. Standard ist "- ABGESAGT! –". Ist das Feld leer, wird kein zusätzlicher Text eingefügt.
+
+*Email-Tasten nur für Admins*: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
 
 ## Notenverwaltung
 * Nur bei abonnierter Notenverwaltung verfügbar *
