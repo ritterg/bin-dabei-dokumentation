@@ -15,13 +15,13 @@ Zu den einzelnen Anlässen kann automatisch eine Email mit dem Aufgebot und alle
 ### Platzhalter
 Um die Informationen in den Text einbetten zu können, stehen diese Platzhalter zur Verfügung:
 
-[organisation-name] = Name des Vereins
-[event-date] = Anlass Datum
-[event-title] = Anlass Titel
-[location] = Ort
-[repertoire] = Programm/Noten
-[tenue] = Tenue
-[notes] = Bemerkungen
+- [organisation-name] = Name des Vereins
+- [event-date] = Anlass Datum
+- [event-title] = Anlass Titel
+- [location] = Ort
+- [repertoire] = Programm/Noten
+- [tenue] = Tenue
+- [notes] = Bemerkungen
 
 ### Standard-Templates
 #### Email-Betreff
@@ -52,19 +52,18 @@ Musikalische Grüsse
 [organisation-name]
 ```
 was z.B. folgendes Email ergeben kann:
-```
-Liebe Musikantinnen und Musikanten
 
-Hier das Aufgebot für den So. 28.07.24 16:00: Kirchenkonzert
-
-Ort: Ref. Kirche Testingen
-
-Programm/Noten: Gemäss Programm Kirchenkonzert
-
-Tenue: Uniform komplett
-
-Instrumentendepot im Kirchgemeindehaus
-
-Musikalische Grüsse
-Musikverein Testingen
-```
+> Liebe Musikantinnen und Musikanten
+> 
+> Hier das Aufgebot für den So. 28.07.24 16:00: Kirchenkonzert
+> 
+> Ort: Ref. Kirche Testingen
+> 
+> Programm/Noten: Gemäss Programm Kirchenkonzert
+> 
+> Tenue: Uniform komplett
+> 
+> Instrumentendepot im Kirchgemeindehaus
+> 
+> Musikalische Grüsse
+> Musikverein Testingen
