@@ -30,9 +30,8 @@ Für den Email-Betreff lautet die Standard-Einstellung wie folgt:
 [organisation-name]: [event-date] [event-title]
 ```
 was z.B. folgenden Betreff ergeben kann:
-```
-Musikverein Testingen: So. 28.07.25 16:00 Kirchenkonzert
-```
+
+> Musikverein Testingen: So. 28.07.25 16:00 Kirchenkonzert
 
 #### Email-Text
 Für den Email-Betreff lautet die Standard-Einstellung wie folgt:
