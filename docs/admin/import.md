@@ -10,7 +10,8 @@ Die Spalten der Excel-Datei müssen folgendermassen angelegt sein:
 Vorname | Nachname | Email | Instrument/Stimme
 ```
 
-Es wird empfohlen, die auf der Seite verlinkte Beispiel-Excel-Datei herunterzuladen und den Import entsprechend dieser Datei aufzubauen.
+!!! tip
+    Es wird empfohlen, die auf der Seite verlinkte Beispiel-Excel-Datei herunterzuladen und den Import entsprechend dieser Datei aufzubauen.
 
 Ist die Excel-Datei erstellt, kann diese hochgeladen werden. Wenn die erste Zeile eine Kopfzeile ist, also die Spaltennamen enthält, bitte die Checkbox «Kopfzeile?» ankreuzen, damit diese Zeile nicht importiert wird. Dann auf «Importieren» klicken.
 
@@ -37,10 +38,8 @@ Bitte beachten:
 - Zeiten (Beginn und Ende) bitte mit Doppelpunkt zwischen Stunden und Minuten eingeben, damit der Import funktioniert
 - Die letzte Zeile «Öffentlicher Auftritt» muss die Zahl 1 enthalten, wenn der Termin als öffentlicher Auftritt markiert (gelb hinterlegt) werden soll. Für Proben etc. die Zahl 0 eingeben (oder leer lassen).
 
-Es wird empfohlen, die auf der Seite verlinkte Beispiel-Excel-Datei herunterzuladen und den Import entsprechend dieser Datei aufzubauen.
-
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+!!! tip
+    Es wird empfohlen, die auf der Seite verlinkte Beispiel-Excel-Datei herunterzuladen und den Import entsprechend dieser Datei aufzubauen.
 
 
 Ist die Excel-Datei erstellt, kann diese hochgeladen werden. Wenn die erste Zeile eine Kopfzeile ist, also die Spaltennamen enthält, bitte die Checkbox «Kopfzeile?» ankreuzen, damit diese Zeile nicht importiert wird. Dann auf «Importieren» klicken.
