@@ -3,14 +3,14 @@
 # Vereinseinstellungen verwalten
 
 ## Vereinsangaben
-Das Feld *Name* ist obligatorisch und wird als Titel, im Kalender etc. angezeigt.
+Das Feld **Name** ist obligatorisch und wird als Titel, im Kalender etc. angezeigt.
 
-Die Felder *Adresse 1*, *Adresse 2*, *PLZ*, *Ort*, *Land*, *Telefon*, *Email*, *Website* dienen vor allem internen Zwecken und sind optional.
+Die Felder **Adresse 1**, **Adresse 2**, **PLZ**, **Ort**, **Land**, **Telefon**, **Email**, **Website** dienen vor allem internen Zwecken und sind optional.
 
-Als *Logo* kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird das Logo automatisch auf 45px Höhe verkleinert.
+Als **Logo** kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird das Logo automatisch auf 45px Höhe verkleinert.
 
 ## Plan
-Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können *Breite* (Anzahl Spalten) und *Höhe* (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden.
+Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können **Breite** (Anzahl Spalten) und **Höhe** (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden.
 
 ## Abmeldungen und Warnungen
 
@@ -33,17 +33,17 @@ Wird die Anzahl Tage oder die Liste der Emails freigelassen, werden für diese K
 
 
 ## Andere Einstellungen
-*Bezeichnung Probenplan:* Wenn das PDF mit den Terminen einen anderen Titel als "Probenplan" tragen soll (z.B. "Programm"), kann dieser hier eingetragen werden. Wird nichts eingetragen, wird standardmässig "Probenplan" verwendet.
+**Bezeichnung Probenplan:** Wenn das PDF mit den Terminen einen anderen Titel als "Probenplan" tragen soll (z.B. "Programm"), kann dieser hier eingetragen werden. Wird nichts eingetragen, wird standardmässig "Probenplan" verwendet.
 
-*Bezeichnung Abgesagt:* Anlässe können als "Abgesagt" markiert werden. Damit wird ein Anlass nicht gelöscht, sondern durchgestrichen dargestellt und der Titel mit einem vorangestellten Text versehen, der hier definiert ist. Standard ist "- ABGESAGT! –". Ist das Feld leer, wird kein zusätzlicher Text eingefügt.
+**Bezeichnung Abgesagt:** Anlässe können als "Abgesagt" markiert werden. Damit wird ein Anlass nicht gelöscht, sondern durchgestrichen dargestellt und der Titel mit einem vorangestellten Text versehen, der hier definiert ist. Standard ist "- ABGESAGT! –". Ist das Feld leer, wird kein zusätzlicher Text eingefügt.
 
-*Email-Tasten nur für Admins*: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
+**Email-Tasten nur für Admins**: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
 
-*Anwesenheiten nur für Admins*: Sollen der Plan und die Liste mit den An- und Abwesenheiten nur für Admins sichtbar sein (um den von gewissen Vereinen befürchteten Effekt "Meine Registerkolleg:innen sind alle abgemeldet, dann komme ich auch nicht" zu verhindern), kann das hier markiert werden.
+**Anwesenheiten nur für Admins**: Sollen der Plan und die Liste mit den An- und Abwesenheiten nur für Admins sichtbar sein (um den von gewissen Vereinen befürchteten Effekt "Meine Registerkolleg:innen sind alle abgemeldet, dann komme ich auch nicht" zu verhindern), kann das hier markiert werden.
 
-*Begründung obligatorisch*: Wenn bei einer Abmeldung obligatorisch eine Begründung eingetragen werden soll, kann das hier aktiviert werden.
+**Begründung obligatorisch**: Wenn bei einer Abmeldung obligatorisch eine Begründung eingetragen werden soll, kann das hier aktiviert werden.
 
-*Regex für gültige Begründung*: Standardmässig wird als Begründung ein beliebiges Zeichen (ausser Leerzeichen) im Begründungsfeld akzeptiert. Sollen strengere Regeln gelten, kann dies hier mit einem [regulären Ausdruck](https://de.wikipedia.org/wiki/Regulärer_Ausdruck) definiert werden.
+**Regex für gültige Begründung**: Standardmässig wird als Begründung ein beliebiges Zeichen (ausser Leerzeichen) im Begründungsfeld akzeptiert. Sollen strengere Regeln gelten, kann dies hier mit einem [regulären Ausdruck](https://de.wikipedia.org/wiki/Regulärer_Ausdruck) definiert werden.
 So bewirkt z.B. der reguläre Ausdruck
 ```
 \w.*\w
@@ -52,11 +52,11 @@ dass mindestens zwei "echte" Buchstaben (d.h. Satzzeichen zählen nicht) mit ode
 
 Hat nur eine Wirkung, wenn die Begründung für eine Absage obligatorisch ist (s.o.)
 
-*Details im Probenplan*: Wenn die zusätzliche Informationen zu einem Anlass wie Tenue, Programm oder Bemerkungen direkt im Probenplan angezeigt werden sollen, kann dies hier aktiviert werden.
+**Details im Probenplan**: Wenn die zusätzliche Informationen zu einem Anlass wie Tenue, Programm oder Bemerkungen direkt im Probenplan angezeigt werden sollen, kann dies hier aktiviert werden.
 
-*Mitgliederverwaltung*: Wenn die zusätzlichen Felder und Funktionen für die Mitgliederverwaltung (siehe [Benutzer:innen > Mitgliederliste](/admin/benutzer)) angezeigt werden sollen, kann dies hier markiert werden.
+**Mitgliederverwaltung**: Wenn die zusätzlichen Felder und Funktionen für die Mitgliederverwaltung (siehe [Benutzer:innen > Mitgliederliste](/admin/benutzer)) angezeigt werden sollen, kann dies hier markiert werden.
 
-*Covid Zertifikate*: : Wenn die zusätzlichen Felder und Funktionen für die Verwaltung der Covid-Zertifikate angezeigt werden sollen, kann dies hier markiert werden.
+**Covid Zertifikate**: : Wenn die zusätzlichen Felder und Funktionen für die Verwaltung der Covid-Zertifikate angezeigt werden sollen, kann dies hier markiert werden.
 
 ## Notenverwaltung
 *Nur bei abonnierter Notenverwaltung verfügbar*

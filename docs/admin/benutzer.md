@@ -25,7 +25,7 @@ Mit der Taste «Ändern» neben jedem Benutzereintrag kann das Formular zur Bear
 
 Im Formular zum Anlegen bzw. Bearbeiten von Benutzerdaten können die üblichen Angaben wie **Vor-** und **Nachname** und **Email-Adresse** eingegeben werden.
 
-Hier kann auch ein neuens **Passwort** vergeben werden, was aber meist nicht nötig ist, , da die Benutzer:innen über die Erstanmeldung-Funktion selbst ein Passwort definieren können. Für Ausnahmefälle (keine Emailadresse o.ä.) kann hier eines definiert werden.
+Hier kann auch ein neues **Passwort** vergeben werden, was aber meist nicht nötig ist, da die Benutzer:innen über die Erstanmeldung-Funktion selbst ein Passwort definieren können. Für Ausnahmefälle (keine Emailadresse o.ä.) kann hier eines definiert werden.
 
 Im Feld **Kategorie** kann eingegeben werden, ob es sich um ein Vereinsmitglied oder eine Aushilfe handelt.
 
