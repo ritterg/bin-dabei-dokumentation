@@ -62,7 +62,7 @@ was z.B. folgenden Betreff ergeben kann:
 > Musikverein Testingen: So. 28.07.25 16:00 Kirchenkonzert
 
 #### Email-Text
-Für den Email-Betreff lautet die Standard-Einstellung wie folgt:
+Für den Email-Text lautet die Standard-Einstellung wie folgt:
 ```
 Liebe Musikantinnen und Musikanten
 
