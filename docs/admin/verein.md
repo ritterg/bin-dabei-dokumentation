@@ -52,6 +52,12 @@ dass mindestens zwei "echte" Buchstaben (d.h. Satzzeichen zählen nicht) mit ode
 
 Hat nur eine Wirkung, wenn die Begründung für eine Absage obligatorisch ist (s.o.)
 
+*Details im Probenplan*: Wenn die zusätzliche Informationen zu einem Anlass wie Tenue, Programm oder Bemerkungen direkt im Probenplan angezeigt werden sollen, kann dies hier aktiviert werden.
+
+*Mitgliederverwaltung*: Wenn die zusätzlichen Felder und Funktionen für die Mitgliederverwaltung (siehe [Benutzer:innen > Mitgliederliste](/admin/benutzer)) angezeigt werden sollen, kann dies hier markiert werden.
+
+*Covid Zertifikate*: : Wenn die zusätzlichen Felder und Funktionen für die Verwaltung der Covid-Zertifikate angezeigt werden sollen, kann dies hier markiert werden.
+
 ## Notenverwaltung
 *Nur bei abonnierter Notenverwaltung verfügbar*
 
