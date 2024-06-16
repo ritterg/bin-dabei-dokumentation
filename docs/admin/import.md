@@ -21,9 +21,7 @@ Sind die Daten in der Vorschau noch fehlerhaft, mit «Abbrechen» den Import sto
 Wenn ein:e Benutzer:in bereits in einem anderen Verein existiert (identifiziert über die gleiche Email-Adresse), wird kein neues Benutzerkonto angelegt, sondern das bereits vorhandene auch für den aktuellen Verein verwendet. D.h. der/die Benutzer:in kann das gleiche Login/Passwort für beide Vereine verwenden.
 
 Alle importierten Benutzer:innen erhalten automatisch die Rolle eines/einer «normalen» Benutzer:in.
-
-!!! warning "ACHTUNG!"
-    Beim Import den eigenen Namen nicht mehr importieren, da er sonst auch die normale Benutzerrolle erhält und die Admin-Rolle verliert.
+Existiert ein Benutzerkonto für diesen Verein bereits, wird es nicht überschrieben (und behält damit z.B. auch seine Admin-Rolle).
 
 ## Anlässe importieren
 

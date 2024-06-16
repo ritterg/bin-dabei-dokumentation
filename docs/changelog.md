@@ -6,6 +6,10 @@
 
 - Hilfeseiten/Handbuch unter [hilfe.bin-dabei.ch](https://hilfe.bin-dabei.ch) ergänzt mit Informationen zu den Admin-Funktionen (noch nicht vollständig)
 
+6.6.2024 – **Bestehender User wird bei Import nicht mehr überschrieben**
+
+- Ein häufiges Problem war, dass bei einem Import der Mitglieder der eigene Name auch mit importiert wurde und damit seine Admin-Rechte verlor. Dies wird neu beim Import überprüft und verhindert.
+
 12.5.2024 – **Öffentliche Testversion aufgeschaltet**
 
 - [https://test.bin-dabei.ch](https://test.bin-dabei.ch)
