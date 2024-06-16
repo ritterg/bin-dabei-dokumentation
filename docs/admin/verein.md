@@ -3,7 +3,7 @@
 # Vereinseinstellungen verwalten
 
 ## Vereinsangaben
-Das Feld **Name** ist obligatorisch und wird als Titel, im Kalender etc. angezeigt.
+Das Feld **Name** ist obligatorisch und wird als Titel auf der Website und im Probenplan, Kalender etc. angezeigt.
 
 Die Felder **Adresse 1**, **Adresse 2**, **PLZ**, **Ort**, **Land**, **Telefon**, **Email**, **Website** dienen vor allem internen Zwecken und sind optional.
 
