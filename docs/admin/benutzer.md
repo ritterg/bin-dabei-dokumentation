@@ -5,7 +5,7 @@
 ## Liste der Benutzer:innen
 Im Menü «Benutzer:innen» kann eine Liste aller registrierten Benutzer:innen aufgerufen werden.
 
-Die Liste ist standardmässig nach aktiv/inaktiv und nach Name und Vorname sortiert, kann aber auch Email, Benutzernamen und Mitgliedsstatus (Mitglied oder Aushilfe) sortiert werden (Klick auf den jeweiligen Spaltenkopf).
+Die Liste ist standardmässig nach aktiv/inaktiv und nach Name und Vorname sortiert, kann aber nach auch Email, Benutzernamen und Mitgliedsstatus (Mitglied oder Aushilfe) sortiert werden (Klick auf den jeweiligen Spaltenkopf).
 
 In der Spalte VCard können die Daten eines/einer einzelnen Benutzer:in im VCard-Format heruntergeladen und dann z.B. auf dem Mobile-Phone in das Adressbuch importiert werden.
 
