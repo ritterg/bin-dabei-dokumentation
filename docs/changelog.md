@@ -7,6 +7,32 @@
 - Mitglieder und Anlässe können neu in Gruppen aufgeteilt werden (z.B. Holz/Blech, Tambouren, Vorstand oder Spielgemeinschaften). Mitglieder sehen dann standardmässig nur ihre relevanten Termine, können aber jederzeit auf «Alle Termine» umschalten. Das Feature ist optional – solange keine Gruppen definiert sind, bleibt alles wie bisher. Siehe [Gruppen](/admin/gruppen).
 - Neu kann jedes Mitglied einen persönlichen [Kalender](/user/kalenderabo) abonnieren, der nur die relevanten Termine (allgemeine plus die der eigenen Gruppen) enthält.
 
+2.6.2026 – **Login für inaktive Mitglieder gesperrt**
+
+- Wer als Mitglied auf inaktiv gesetzt ist, kann sich beim betreffenden Verein nicht mehr anmelden.
+
+23.3.2026 – **Moderneres Erscheinungsbild**
+
+- Neben zahlreichen technischen Erneuerungen und Updates im Hintergrund wurde die ganze Oberfläche überarbeitet und moderner gestaltet, mit besserer Darstellung auf Smartphone und Tablet.
+- Datums- und Zeitfelder nutzen neu die native Eingabe des Geräts – gerade am Handy angenehmer.
+
+14.1.2026 – **Verbesserter Anlass-Import**
+
+- Der Import von Anlässen wurde verbessert (u. a. zuverlässiges Erkennen der Kopfzeile).
+
+23.12.2025 – **Aufgebote & Kalender**
+
+- In den Aufgebot-Mails wird neu direkt auf die Beilagen des Anlasses verlinkt.
+- Ein Anlass kann neu vom öffentlichen Kalender ausgenommen werden.
+
+5.9.2025 – **Noten: Stimmen kopieren**
+
+- Die Stimmen-Zuteilung lässt sich von einem Mitglied auf ein anderes kopieren.
+
+25.11.2024 – **Register (Notenverwaltung)**
+
+- Neu lassen sich Instrumente in Register zusammenfassen; dies erleichtert die Zuweisung der Stimmen in der Notenverwaltung.
+
 16.6.2024 – **Hilfeseiten ergänzt**
 
 - Hilfeseiten/Handbuch unter [hilfe.bin-dabei.ch](https://hilfe.bin-dabei.ch) ergänzt mit Informationen zu den Admin-Funktionen (noch nicht vollständig)
