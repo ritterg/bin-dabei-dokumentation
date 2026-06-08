@@ -4,6 +4,8 @@
 
 Auf diesem Bildschirm werden alle kommenden Anlässe aufgeführt, für die eine An- oder Abmeldung möglich ist.
 
+Nutzt der Verein [Gruppen](/admin/gruppen), erscheinen hier nur die für dich relevanten Anlässe – also die gemeinsamen Termine sowie die Termine deiner Gruppen.
+
 Pro Anlass kann Ja oder Nein gewählt werden und allenfalls eine Begründung eingegeben werden.
 (Vereinsadmins können die Begründung für eine Abmeldung für ihren Verein obligatorisch machen).
 

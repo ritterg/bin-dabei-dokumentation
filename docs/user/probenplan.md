@@ -9,3 +9,5 @@ Es werden jeweils nur die Anlässe ab dem jetzigen Zeitpunkt angezeigt.
 Termine in <span style="color: blue">blau</span>: in den letzten 30 Tagen neu eingetragen oder angepasst
 
 Termine auf <span style="background-color: #f7ca77">gelbem Hintergrund</span>: öffentliche Auftritte
+
+Nutzt der Verein [Gruppen](/admin/gruppen), wird bei jedem Anlass, der einer Gruppe zugeordnet ist, die entsprechende Gruppe angezeigt.

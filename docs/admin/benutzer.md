@@ -31,6 +31,8 @@ Im Feld **Kategorie** kann eingegeben werden, ob es sich um ein Vereinsmitglied 
 
 Unter **Instrument / Stimme** kann das passende Instrument bzw. die Stimme festgelegt werden. Definiert wird die Auswahl der Instrumente / Stimmen unter [Verein > Instrumente](/admin/verein)
 
+Sind im Verein **Gruppen** definiert (siehe [Gruppen](/admin/gruppen)), kann das Mitglied hier per Checkbox einer oder mehreren Gruppen zugeordnet werden. In der Benutzerliste und der Mitgliederliste wird die Gruppenzugehörigkeit angezeigt, und die Listen lassen sich nach Gruppe filtern.
+
 Die **Rolle** definiert, welche Rechte und Möglichkeiten ein:e Benutzer:in hat
 
 - Benutzer:innen können Anlässe und Probenplan ansehen, sich für Anlässe an- und abmelden, Emails an alle erstellen und (wenn abonniert) ihre zugeteilten Noten herunterladen

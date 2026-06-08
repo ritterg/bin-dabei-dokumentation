@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+8.6.2026 – **Gruppen**
+
+- Mitglieder und Anlässe können neu in Gruppen aufgeteilt werden (z.B. Holz/Blech, Tambouren, Vorstand oder Spielgemeinschaften). Mitglieder sehen dann standardmässig nur ihre relevanten Termine, können aber jederzeit auf «Alle Termine» umschalten. Das Feature ist optional – solange keine Gruppen definiert sind, bleibt alles wie bisher. Siehe [Gruppen](/admin/gruppen).
+
 16.6.2024 – **Hilfeseiten ergänzt**
 
 - Hilfeseiten/Handbuch unter [hilfe.bin-dabei.ch](https://hilfe.bin-dabei.ch) ergänzt mit Informationen zu den Admin-Funktionen (noch nicht vollständig)

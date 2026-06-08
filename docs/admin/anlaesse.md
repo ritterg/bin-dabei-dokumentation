@@ -40,6 +40,8 @@ Wird die Checkbox **Nur anzeigen** angeklickt, wird der Anlass in den Listen, Ka
 Wird die Checkbox **Abgesagt** angeklickt, wird der Anlass in den Listen, Kalendern und im Probenplan als abgesagt angezeigt, d.h. er wird durchgestrichen dargestellt und mit einem in den Einstellungen zum Verein definierbaren Vorsatz (defaultmässig: "ABGESAGT:") versehen, also etwa ~~Fr. 25.11.2024  ABGESAGT: Gesamtprobe~~.
 In den meisten Fällen ist diese Abgesagt-Markierung klarer und besser verständlich als das simple Löschen des Anlasses.
 
+Sind im Verein **Gruppen** definiert (siehe [Gruppen](/admin/gruppen)), kann der Anlass hier einer oder mehreren Gruppen zugeordnet werden. Ohne Auswahl gilt der Anlass wie bisher für alle.
+
 Im Feld **Datum** wird das Datum des Anlasses definiert, entweder über den Popup-Kalender (Taste mit den 9 Punkten rechts vom Feld) oder als Texteingabe im Format TT.MM.JJJJ.
 
 Im Feld **Beginn** wird die Anfangszeit des Anlasses im Format SS:MM definiert.

@@ -6,6 +6,8 @@ Hier wird der Link angegeben, unter dem der Probenplan als elektronisches Kalend
 
 Zusätzlich kann auch ein Kalender nur für die öffentlichen Auftritte eines Vereins abonniert werden.
 
+Nutzt der Verein [Gruppen](/admin/gruppen) und bist du einer Gruppe zugeordnet, erscheint hier zusätzlich ein persönlicher Link, der nur deine relevanten Termine (gemeinsame Termine plus die deiner Gruppen) enthält.
+
 **Achtung**: Kalender unbedingt *abonnieren* und *nicht importieren*, da er sich sonst nicht automatisch aktualisiert.
 
 ## Hilfe für Kalender-Abos

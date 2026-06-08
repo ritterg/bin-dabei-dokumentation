@@ -8,6 +8,8 @@ Hier kann eine Excel-Datei mit Benutzer:innen und Anlässen exportiert werden. E
 
 Die zu exportierenden Anlässe können entweder direkt für ein ganzes Jahr ausgewählt werden oder via Eingabe eines Start- und Enddatums.
 
+Sind im Verein [Gruppen](/admin/gruppen) definiert, kann der Export zusätzlich auf eine einzelne Gruppe eingeschränkt werden («Alle Gruppen» = keine Einschränkung). In der Exportdatei werden ausserdem die Gruppen jedes Anlasses sowie die Gruppenzugehörigkeit jedes Mitglieds ausgewiesen.
+
 ## Ausrichtung
 
 Hier kann ausgewählt werden, wie die Benutzer:innen und Anlässe in der Excel-Datei ausgerichtet werden sollen.
