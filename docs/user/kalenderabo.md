@@ -1,12 +1,12 @@
 [Home](/) > [User](/user) >
 
-# Probenplan als Kalender abonnieren
+# Termine als Kalender abonnieren
 
-Hier wird der Link angegeben, unter dem der Probenplan als elektronisches Kalender-Abonnement im persönlichen Kalender integriert werden kann (Link unterschiedlich je nach Verein).
+Hier findest du die Links, mit denen sich die Termine deines Vereins als elektronisches Kalender-Abonnement in deinen persönlichen Kalender integrieren lassen (die Links sind je nach Verein unterschiedlich). Es stehen drei Kalender zur Auswahl:
 
-Zusätzlich kann auch ein Kalender nur für die öffentlichen Auftritte eines Vereins abonniert werden.
-
-Nutzt der Verein [Gruppen](/admin/gruppen) und bist du einer Gruppe zugeordnet, erscheint hier zusätzlich ein persönlicher Link, der nur deine relevanten Termine (gemeinsame Termine plus die deiner Gruppen) enthält.
+- **Persönlicher Kalender** (empfohlen): Enthält nur die für dich relevanten Termine, also die allgemeinen Termine plus jene deiner [Gruppen](/admin/gruppen). Gruppentermine, die dich nicht betreffen, erscheinen nicht. Die Konzerte sind enthalten.
+- **Alle Termine**: Sämtliche Termine des ganzen Vereins, unabhängig von Gruppen, inklusive Konzerte.
+- **Nur Konzerte**: Nur die öffentlichen Konzerte. In den beiden Kalendern oben sind die Konzerte bereits enthalten – wer einen davon abonniert, braucht diesen hier nicht.
 
 **Achtung**: Kalender unbedingt *abonnieren* und *nicht importieren*, da er sich sonst nicht automatisch aktualisiert.
 
