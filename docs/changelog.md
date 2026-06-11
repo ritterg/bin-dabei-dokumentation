@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+11.6.2026 – **Anlässe: Endzeit vor Startzeit wird verhindert**
+
+- Anlässe, deren Endzeit vor der Startzeit liegt, konnten bisher so eingetragen oder importiert werden – neu wird das verhindert, sowohl bei der manuellen Eingabe als auch beim Excel-Import (mit einer Meldung, welche Zeile(n) betroffen sind).
+
 11.6.2026 – **«Email an alle»: wahlweise mit verdeckten Adressen (BCC)**
 
 - In den [Vereinseinstellungen](/admin/verein) lässt sich neu festlegen, ob die «Email an alle»-Tasten die Empfängeradressen **sichtbar** (An/CC, wie bisher) oder **verdeckt** (BCC) einsetzen. Bei BCC sehen die Empfänger:innen die Adressen der anderen nicht – gut für den Datenschutz. Die Einstellung gilt für die Tasten auf der Startseite und beim Anlass-Aufgebot.
