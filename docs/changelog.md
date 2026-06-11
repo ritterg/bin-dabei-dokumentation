@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+11.6.2026 – **«Email an alle»: wahlweise mit verdeckten Adressen (BCC)**
+
+- In den [Vereinseinstellungen](/admin/verein) lässt sich neu festlegen, ob die «Email an alle»-Tasten die Empfängeradressen **sichtbar** (An/CC, wie bisher) oder **verdeckt** (BCC) einsetzen. Bei BCC sehen die Empfänger:innen die Adressen der anderen nicht – gut für den Datenschutz. Die Einstellung gilt für die Tasten auf der Startseite und beim Anlass-Aufgebot.
+
 11.6.2026 – **Notenverwaltung: Stücke direkt in der Kategorie-Spalte bearbeiten**
 
 - In der linken Spalte «Kategorien» können die Stücke neu direkt über «Stimmen», «Ändern» und «Löschen» bearbeitet werden – gleich wie in der Liste «Stücke» rechts.

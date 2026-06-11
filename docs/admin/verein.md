@@ -39,6 +39,8 @@ Wird die Anzahl Tage oder die Liste der Emails freigelassen, werden für diese K
 
 **Email-Tasten nur für Admins**: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
 
+**E-Mail-Empfänger (sichtbar oder verdeckt)**: Bestimmt, wie die Empfänger:innen bei den «Email an alle»-Tasten (auf der Startseite und beim Anlass-Aufgebot) adressiert werden. Standardmässig stehen die Mitglieder im **An**- und die Aushilfen im **CC**-Feld – die Adressen sind also für alle sichtbar. Mit der Option **«Verdeckt (BCC)»** werden stattdessen alle Empfänger:innen ins **BCC** gesetzt, sodass niemand die Adressen der anderen sieht (Datenschutz). In diesem Fall entfällt die Unterscheidung zwischen Mitgliedern und Aushilfen, und das An-Feld bleibt leer.
+
 **Anwesenheiten nur für Admins**: Sollen der Plan und die Liste mit den An- und Abwesenheiten nur für Admins sichtbar sein (um den von gewissen Vereinen befürchteten Effekt "Meine Registerkolleg:innen sind alle abgemeldet, dann komme ich auch nicht" zu verhindern), kann das hier markiert werden.
 
 **Begründung obligatorisch**: Wenn bei einer Abmeldung obligatorisch eine Begründung eingetragen werden soll, kann das hier aktiviert werden.
