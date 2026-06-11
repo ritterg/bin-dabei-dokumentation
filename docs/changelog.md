@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+11.6.2026 – **Notenverwaltung: Stücke direkt in der Kategorie-Spalte bearbeiten**
+
+- In der linken Spalte «Kategorien» können die Stücke neu direkt über «Stimmen», «Ändern» und «Löschen» bearbeitet werden – gleich wie in der Liste «Stücke» rechts.
+- Nach dem Speichern springt die Liste wieder an die Stelle zurück, von der aus man gestartet ist.
+
 8.6.2026 – **Gruppen**
 
 - Mitglieder und Anlässe können neu in Gruppen aufgeteilt werden (z.B. Holz/Blech, Tambouren, Vorstand oder Spielgemeinschaften). Mitglieder sehen dann standardmässig nur ihre relevanten Termine, können aber jederzeit auf «Alle Termine» umschalten. Das Feature ist optional – solange keine Gruppen definiert sind, bleibt alles wie bisher. Siehe [Gruppen](/admin/gruppen).
