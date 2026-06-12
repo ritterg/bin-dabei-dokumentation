@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+12.6.2026 – **Noten wahlweise aus OneDrive for Business**
+
+- Die Noten eines Vereins können neu auch in **OneDrive for Business** (Microsoft 365) liegen – als Alternative zu Dropbox. Für Vereine, die ohnehin mit Microsoft 365 arbeiten, braucht es so keinen separaten Dropbox-Account. Die Einrichtung übernehmen wir für euch – meldet euch einfach.
+- Die Zugangsdaten zu den Noten-Speichern (Dropbox wie OneDrive) werden neu **verschlüsselt** in der Datenbank abgelegt.
+
 11.6.2026 – **Anlässe: Endzeit vor Startzeit wird verhindert**
 
 - Anlässe, deren Endzeit vor der Startzeit liegt, konnten bisher so eingetragen oder importiert werden – neu wird das verhindert, sowohl bei der manuellen Eingabe als auch beim Excel-Import (mit einer Meldung, welche Zeile(n) betroffen sind).
