@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+18.6.2026 – **Notenverwaltung: Automatische Stimmenaufteilung**
+
+- Neu lässt sich ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, ein gescannter Stimmenstapel, oder beides in mehreren Dateien – **automatisch in einzelne, benannte Stimmen-PDFs zerlegen**. Die Seiten werden KI-gestützt gelesen, Instrument, Seitenzahl und Mehrfach-Kopien erkannt, zusammengehörende Seiten zu einer Stimme zusammengefügt und die Dateien nach eurem Nummernschema benannt. Ihr prüft das Resultat und ladet es als ZIP herunter. Siehe [Stimmenaufteilung](/noten/stimmenaufteilung).
+- Das Feature wird pro Verein freigeschaltet – meldet euch, wenn ihr es ausprobieren möchtet. Während der Testphase ist es kostenlos; für den regulären Betrieb behalten wir uns eine Kostenbeteiligung vor.
+
 12.6.2026 – **Noten wahlweise aus OneDrive for Business**
 
 - Die Noten eines Vereins können neu auch in **OneDrive for Business** (Microsoft 365) liegen – als Alternative zu Dropbox. Für Vereine, die ohnehin mit Microsoft 365 arbeiten, braucht es so keinen separaten Dropbox-Account. Die Einrichtung übernehmen wir für euch – meldet euch einfach.
