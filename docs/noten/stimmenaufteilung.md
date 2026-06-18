@@ -7,6 +7,9 @@ Du hast ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, oder einen Sta
 !!! warning "Noch in Erprobung"
     Die Stimmenaufteilung steckt noch in der Testphase. Wenn etwas nicht klappt oder eine Stimme falsch aufgeteilt wird, melde es uns bitte an [info@bin-dabei.ch](mailto:info@bin-dabei.ch) – mit Angabe deines **Vereins** und des **Stücktitels**, damit wir es nachvollziehen können.
 
+!!! warning "Kosten"
+    Während der Testphase ist die Stimmenaufteilung für deinen Verein **kostenlos**. Im Hintergrund entstehen aber externe Kosten (der KI-Lesedienst). Für den regulären Betrieb behalten wir uns deshalb eine **Kostenbeteiligung** vor – voraussichtlich als **Pauschale**; die Details sind noch offen.
+
 !!! note "Voraussetzung"
     Die Stimmenaufteilung muss für deinen Verein freigeschaltet sein (durch die bin-dabei-Administration). Danach findest du sie im Menü unter **«Noten» → «Stimmenaufteilung»**. Zugriff haben nur Bibliothekar:innen und Vereinsadmins.
 
