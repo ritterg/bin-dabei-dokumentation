@@ -11,8 +11,7 @@ Wenn die [Stimmen-PDFs eines Stücks](/noten/stuecke) im Online-Speicher liegen,
 
 Du siehst eine Tabelle: **oben** die einzelnen Stimmen-PDFs des Stücks (eine Spalte pro Datei), **links** die Mitglieder, nach **Register** gruppiert und sortiert (daher lohnt sich das saubere Einrichten von [Registern & Instrumenten](/noten/einrichten)). In den Kreuzungspunkten setzt du das Häkchen, wenn ein Mitglied diese Stimme erhalten soll.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Zuteilungs-Matrix eines Stücks – Stimmen als Spalten, Mitglieder nach Register als Zeilen, mit gesetzten Häkchen.* (`img/noten-zuteilung.png`)
+![Zuteilungs-Matrix eines Stücks – Stimmen als Spalten, Mitglieder nach Register als Zeilen, mit gesetzten Häkchen](../img/noten-zuteilung.png)
 
 So geht das Zuweisen schnell:
 
@@ -29,8 +28,7 @@ Zum Schluss mit **«Speichern»** sichern. Jedes Mitglied sieht danach genau die
 
 Damit du eine ähnliche Zuteilung nicht für jedes Mitglied neu klicken musst, lässt sich die **komplette Stimmen-Zuteilung eines Mitglieds auf ein anderes kopieren** – praktisch, wenn z.B. eine neue Person dieselbe Stimme wie ein bestehendes Mitglied übernimmt. Die Funktion findest du auf der **Notenverwaltungs-Startseite** («Noten» → «Administration») **oben rechts** über der Stück-Liste: Wähle in den beiden Namens-Listen das Mitglied, **von** dem, und das Mitglied, **zu** dem kopiert werden soll, und klicke auf **«Kopieren»**.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Notenverwaltungs-Startseite, oben rechts die zwei Namens-Listen und die Taste «Kopieren».* (`img/noten-kopieren.png`)
+![Aufgeklapptes «Stimmenzuteilung kopieren» mit den zwei Namens-Listen und der Taste «Kopieren»](../img/noten-kopieren.png)
 
 !!! tip "Zuteilung eines anderen Mitglieds ansehen"
     Auf der **Noten-Seite eines Mitglieds** kannst du als Admin über das **Namens-Dropdown** zur Ansicht eines anderen Mitglieds wechseln – praktisch, um schnell zu prüfen, wer welche Stimmen zugeteilt hat.

@@ -4,8 +4,7 @@
 
 Das Repertoire deines Vereins verwaltest du unter **«Noten» → «Administration»**. Die Seite ist zweispaltig: links die **Kategorien**, rechts die **Stücke**.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Admin-Seite «Noten» mit der Kategorien-Spalte links und der Stück-Liste rechts.* (`img/noten-admin.png`)
+![Admin-Seite «Noten» mit der Kategorien-Spalte links und der Stück-Liste rechts](../img/noten-admin.png)
 
 ## Kategorien
 
@@ -21,14 +20,13 @@ In der rechten Spalte siehst du alle Stücke deines Vereins.
 
 - Mit **«Neues Stück»** erfasst du ein Stück. Dabei gibst du an:
     - **Titel** des Stücks
-    - **Komponist / Arrangeur**
+    - **Verzeichnis** (der Ordner im [Online-Speicher](/noten/einrichten), in dem die Stimmen-PDFs liegen)
     - **Kategorie** (in welche Schublade das Stück gehört)
     - optional ein **Hörbeispiel** (Audiodatei), das die Mitglieder anhören können
 - Über **«Ändern»** passt du diese Angaben später an, über **«Löschen»** entfernst du das Stück.
 - Mit **«Stimmen»** gelangst du zur [Zuteilung der Stimmen](/noten/stimmen-zuteilen) für dieses Stück.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Formular «Neues Stück» mit Titel, Komponist, Kategorie und Hörbeispiel.* (`img/noten-stueck-formular.png`)
+![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 
 ## Die Stimmen-PDFs des Stücks
 

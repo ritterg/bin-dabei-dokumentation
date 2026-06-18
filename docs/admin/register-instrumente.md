@@ -16,8 +16,7 @@ Ein Register fasst verwandte Instrumente zusammen (z.B. «Klarinetten», «Tromp
 - Lege die Register an und bringe sie in die gewünschte **Reihenfolge**.
 - Diese Reihenfolge bestimmt später, wie Instrumente und Mitglieder gruppiert und sortiert werden.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Seite «Register» mit der Liste der Register.* (`img/admin-register.png`)
+![Seite «Register» mit der Liste der Register](../img/admin-register.png)
 
 ## Instrumente
 
@@ -25,8 +24,7 @@ Anschliessend legst du die einzelnen Instrumente an (z.B. Klarinette 1, Klarinet
 
 - Jedes Mitglied erhält ein Instrument (im Profil bzw. beim [Import](/admin/import)). So ist überall dieselbe, einheitliche Bezeichnung in Gebrauch.
 
-!!! info "📷 Screenshot folgt"
-    *Bildschirmfoto: Seite «Instrumente» mit der Zuordnung zu den Registern.* (`img/admin-instrumente.png`)
+![Seite «Instrumente» mit der Zuordnung jedes Instruments zu einem Register](../img/admin-instrumente.png)
 
 ## Was dir das bringt
 
