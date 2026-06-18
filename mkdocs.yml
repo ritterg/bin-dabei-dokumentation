@@ -45,4 +45,6 @@ nav:
     - Gruppen: admin/gruppen.md
     - Import: admin/import.md
     - Export: admin/export.md
-  - Notenverwaltung: noten/index.md
+  - Notenverwaltung:
+    - Übersicht: noten/index.md
+    - Stimmenaufteilung: noten/stimmenaufteilung.md

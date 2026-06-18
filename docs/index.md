@@ -10,3 +10,6 @@ Siehe [Für Benutzer:innen](/user)
 
 ## Hilfe für Admins
 Siehe [Für Admins](/admin)
+
+## Hilfe zur Notenverwaltung
+Siehe [Notenverwaltung](/noten)
