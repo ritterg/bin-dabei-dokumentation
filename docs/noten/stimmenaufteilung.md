@@ -10,6 +10,15 @@ Du hast ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, oder einen Sta
 !!! warning "Kosten"
     Während der Testphase ist die Stimmenaufteilung für deinen Verein **kostenlos**. Im Hintergrund entstehen aber externe Kosten (der KI-Lesedienst). Für den regulären Betrieb behalten wir uns deshalb eine **Kostenbeteiligung** vor – voraussichtlich als **Pauschale**; die Details sind noch offen.
 
+!!! note "Datenschutz: Schweizer KI von Infomaniak"
+    Fürs Lesen der Seiten nutzt bin-dabei den KI-Dienst von **[Infomaniak](https://www.infomaniak.com/de/hosting/ai-services)** – das ist bewusst gewählt:
+
+    - Die KI läuft auf einem **quelloffenen (Open-Source-)Modell** – keine Blackbox eines US- oder asiatischen Konzerns.
+    - Betrieben wird sie **in der Schweiz**, in Infomaniaks eigenen Rechenzentren – ohne Abhängigkeit von ausländischen Anbietern.
+    - Der Dienst ist **datenschutzkonform** nach Schweizer DSG und EU-DSGVO.
+    - Die an die KI gesendeten Seiten werden **weder gespeichert noch zum Training** der KI verwendet – «Was du der KI anvertraust, gehört dir» (Infomaniak).
+    - Und ökologisch: Der Betrieb läuft mit erneuerbarer Energie, deren Abwärme weiterverwendet wird und im Winter rund 6000 Wohnungen heizt.
+
 !!! note "Voraussetzung"
     Die Stimmenaufteilung muss für deinen Verein freigeschaltet sein (durch die bin-dabei-Administration). Danach findest du sie im Menü unter **«Noten» → «Stimmenaufteilung»**. Zugriff haben nur Bibliothekar:innen und Vereinsadmins.
 
