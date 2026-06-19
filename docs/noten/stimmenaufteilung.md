@@ -10,6 +10,11 @@ Du hast ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, oder einen Sta
 !!! warning "Kosten"
     Während der Testphase ist die Stimmenaufteilung für deinen Verein **kostenlos**. Im Hintergrund entstehen aber externe Kosten (der KI-Lesedienst). Für den regulären Betrieb behalten wir uns deshalb eine **Kostenbeteiligung** vor – voraussichtlich als **Pauschale**; die Details sind noch offen.
 
+!!! note "Seitenkontingent"
+    Damit die Nutzung fair bleibt, hat jeder Verein ein **Seitenkontingent** pro Zeitraum (je nach Verein pro Tag, Monat oder Jahr – eingestellt durch die bin-dabei-Administration). Oben auf der Seite siehst du, **wie viele Seiten du im laufenden Zeitraum schon verbraucht hast** und **wann das Kontingent zurückgesetzt wird**. Gezählt werden die **gelesenen Seiten** eines Laufs.
+
+    Ist das Kontingent ausgeschöpft, ist der Upload bis zum nächsten Reset gesperrt – du erhältst dann einen entsprechenden Hinweis. Brauchst du mehr, melde dich bei [info@bin-dabei.ch](mailto:info@bin-dabei.ch).
+
 !!! note "Datenschutz: Schweizer KI von Infomaniak"
     Fürs Lesen der Seiten nutzt bin-dabei den KI-Dienst von **[Infomaniak](https://www.infomaniak.com/de/hosting/ai-services)** – das ist bewusst gewählt:
 
