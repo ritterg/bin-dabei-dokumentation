@@ -42,7 +42,34 @@ Nach dem Hochladen siehst du einen Fortschrittsbalken. Die Verarbeitung läuft i
 
 ## 3. Ergebnis prüfen und korrigieren
 
-Oben bestätigst oder korrigierst du **«Stücktitel»** und **«Komponist/Arrangeur»**. Darunter listet eine Tabelle alle erkannten Stimmen:
+Von oben nach unten: zuerst **Stücktitel** und **Komponist**, darunter das **Dateinamen-Muster**, und zuunterst die Tabelle mit allen erkannten Stimmen.
+
+### Stücktitel und Komponist
+
+Oben bestätigst oder korrigierst du **«Stücktitel»** und **«Komponist/Arrangeur»** – sie fliessen in die Dateinamen ein.
+
+### Dateinamen-Muster
+
+Das **Dateinamen-Muster** (direkt unter Titel/Komponist) bestimmt, wie die heruntergeladenen Stimmen-PDFs heissen. Du baust es aus Platzhaltern und freiem Text zusammen:
+
+- `{sortiercode}` – das Sortier-Präfix der Stimme (z.B. `04b`)
+- `{komponist}` – Komponist/Arrangeur
+- `{titel}` – Stücktitel
+- `{instrument}` – Instrumentbezeichnung
+
+Beispiel: `{titel} [{sortiercode} - {instrument}]` ergibt `Beispielstück [04b - Klarinette 2]`. Leere Platzhalter (z.B. ein Stück ohne Komponist) werden samt überflüssiger Trennzeichen automatisch entfernt.
+
+In der Tabelle unten siehst du dann pro Stimme in der Spalte **«Dateiname»** **live**, wie die Datei heissen wird – die Vorschau aktualisiert sich, sobald du das Muster, Titel/Komponist oder eine Zeile änderst.
+
+!!! note "Standard pro Verein"
+    Lässt du das Feld leer, gilt das **Standard-Muster deines Vereins** (von einem Vereinsadmin in den Vereinseinstellungen festlegbar). Hier beim Stück überschreibst du es nur für dieses eine Stück.
+
+!!! tip "Fester Text pro Stück – z.B. Signatur"
+    Weil das Muster pro Stück anpassbar ist, kannst du auch **festen Text** einbauen, der nur für dieses Stück gilt – etwa eine **Signatur/Archivnummer**: `{sortiercode}_{titel}_{instrument}_MB-1343` ergibt `04b_Beispielstück_Klarinette 2_MB-1343`.
+
+### Die Stimmen-Tabelle
+
+Die Tabelle listet alle erkannten Stimmen:
 
 | Spalte | Bedeutung |
 | --- | --- |
@@ -52,7 +79,7 @@ Oben bestätigst oder korrigierst du **«Stücktitel»** und **«Komponist/Arran
 | **Seiten** | Welche Seiten des Quell-PDFs zu dieser Stimme gehören. |
 | **Kopien** | Wie viele identische Exemplare im PDF gefunden wurden (es wird nur eines extrahiert). |
 | **Hinweis** | Automatische Anmerkungen, z.B. «4 copies → kept 1» oder «1 page(s) rotated 180°». |
-| **Dateiname** | Live-Vorschau, wie die Datei am Schluss heissen wird (siehe «Dateinamen-Muster» unten). |
+| **Dateiname** | Live-Vorschau, wie die Datei am Schluss heissen wird (gemäss «Dateinamen-Muster» oben). |
 | **Vorschau** | Öffnet die fertige Stimme als PDF in einem neuen Tab. |
 
 Was die Aufteilung dabei automatisch erledigt:
@@ -64,26 +91,6 @@ Was die Aufteilung dabei automatisch erledigt:
 
 !!! tip "Zwei falsch getrennte Seiten zusammenführen"
     Liest die KI eine mehrseitige Stimme versehentlich als zwei (z.B. «E Horn 2» und «Eb Horn 2»), gib einfach beiden dasselbe Instrument. Sobald zwei aufeinanderfolgende Zeilen identisch heissen, erscheint ein Häkchen **«↑ mit voriger zusammenführen»** (standardmässig angekreuzt). Beim Herunterladen werden die beiden Teile dann zu **einer** PDF verbunden.
-
-### Dateinamen-Muster
-
-Über der Stimmen-Tabelle steht das **Dateinamen-Muster** – es bestimmt, wie die heruntergeladenen Stimmen-PDFs heissen. Du baust es aus Platzhaltern und freiem Text zusammen:
-
-- `{sortiercode}` – das Sortier-Präfix der Stimme (z.B. `04b`)
-- `{komponist}` – Komponist/Arrangeur
-- `{titel}` – Stücktitel
-- `{instrument}` – Instrumentbezeichnung
-
-Beispiel: `{titel} [{sortiercode} - {instrument}]` ergibt `Beispielstück [04b - Klarinette 2]`. Leere Platzhalter (z.B. ein Stück ohne Komponist) werden samt überflüssiger Trennzeichen automatisch entfernt.
-
-In der Spalte **«Dateiname»** siehst du pro Stimme **live**, wie die Datei heissen wird – die Vorschau aktualisiert sich, sobald du das Muster, Titel/Komponist oder eine Zeile änderst.
-
-!!! note "Standard pro Verein"
-    Lässt du das Feld leer, gilt das **Standard-Muster deines Vereins** (von einem Vereinsadmin in den Vereinseinstellungen festlegbar). Hier beim Stück überschreibst du es nur für dieses eine Stück.
-
-!!! tip "Fester Text pro Stück – z.B. Signatur"
-    Weil das Muster pro Stück anpassbar ist, kannst du auch **festen Text** einbauen, der nur für dieses Stück gilt – etwa eine **Signatur/Archivnummer**: `{sortiercode}_{titel}_{instrument}_MB-1343` ergibt `04b_Beispielstück_Klarinette 2_MB-1343`.
-
 ### Plausibilitäts-Hinweise
 
 Über der Tabelle können zwei Hinweise erscheinen:
