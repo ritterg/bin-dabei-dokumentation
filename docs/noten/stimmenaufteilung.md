@@ -86,7 +86,7 @@ Was die Aufteilung dabei automatisch erledigt:
 
 - **Mehrfach-Kopien** derselben Stimme werden zu einer zusammengefasst (in der Spalte «Kopien» siehst du, wie viele es waren).
 - Die **Partitur** wird als eigene Stimme «Partitur» mitgeliefert.
-- **Kopfüber gedruckte Folgeseiten** von gefalteten Stimmen (Faltkarten/Marschbüchlein) werden automatisch aufrecht gedreht.
+- **Kopfüber gedruckte Folgeseiten** von gefalteten Stimmen (Faltkarten/Marschbüchlein) werden – soweit automatisch erkannt – aufrecht gedreht; kontrolliere im Zweifel kurz die Vorschau.
 - Verlage drucken oft in GROSSBUCHSTABEN – Titel und Stimmennamen werden in normale Schreibweise gebracht.
 
 !!! tip "Zwei falsch getrennte Seiten zusammenführen"
@@ -97,6 +97,8 @@ Was die Aufteilung dabei automatisch erledigt:
 
 - **«Einige Seiten konnten nicht gelesen werden»** – einzelne Seiten sind beim Lesen ausgefallen (meist vorübergehende Überlastung des Dienstes). Lass die Aufteilung in diesem Fall nochmals laufen.
 - **«Einige Seiten sind in keiner Stimme enthalten»** – diese Seiten des Quell-PDFs sind in keiner Stimme gelandet. Bei Titel- oder Leerseiten ist das normal; sonst lohnt sich ein Blick, ob eine Seite verloren ging.
+
+In beiden Hinweisen sind die **Seitenzahlen anklickbar** – ein Klick öffnet die betreffende Quellseite in einem neuen Tab, sodass du gleich siehst, worum es geht (z.B. ob es bloss eine Titelseite war).
 
 ## 4. Herunterladen
 
