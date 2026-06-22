@@ -38,6 +38,7 @@ Die **Rolle** definiert, welche Rechte und Möglichkeiten ein:e Benutzer:in hat
 - Benutzer:innen können Anlässe und Probenplan ansehen, sich für Anlässe an- und abmelden, Emails an alle erstellen und (wenn abonniert) ihre zugeteilten Noten herunterladen
 - Absenzenkontrolle gibt zusätzlich noch den Zugriff auf die Funktion, mit der die An- und Abwesenheiten während oder nach einem Anlass korrigiert werden können, damit die Statistik am Jahresende stimmt.
 - Bibliothekare und Bibliothekarinnen erhalten Zugang zur Notenverwaltung (sofern abonniert)
+- «Admin für Benutzer:innen und Anlässe» verwaltet Benutzer:innen und Anlässe vollständig (inkl. Aufgebote, Absenzenkontrolle und Import/Export), hat aber **keinen** Zugriff auf die Vereinseinstellungen (Register, Instrumente, Gruppen) und die Notenverwaltung. Diese Rolle kann selbst keine Administrator- oder Bibliothekar-Rechte vergeben. Praktisch, um die Mitglieder- und Anlassverwaltung zu delegieren, ohne volle Adminrechte zu vergeben.
 - Admins haben alle Funktionen zur Verfügung
 
 Wird **Inaktiv** angekreuzt, verschwindet der/die entsprechende Benutzer:in aus den Anwesenheitsplänen/-listen bzw. wird in der Benutzerliste unten einsortiert. Eine «Reaktivierung» durch Abwählen von Inaktiv ist wesentlich einfacher, als wenn der/die Benutzer:in gelöscht worden wäre und jetzt wieder angelegt werden müsste. Nützlich z.B. für regelmässige Aushilfen, die jeweils für ein Konzert im Jahr dabei sind, in der übrigen Zeit aber nicht.

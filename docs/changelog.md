@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+22.6.2026 – **Neue Berechtigungsstufe «Admin für Benutzer:innen und Anlässe»**
+
+- Zwischen «Absenzenkontrolle» und «Admin» gibt es neu eine Rolle, die **Benutzer:innen und Anlässe vollständig verwaltet** (inkl. Aufgebote, Absenzenkontrolle und Import/Export), aber **keinen** Zugriff auf die Vereinseinstellungen (Register, Instrumente, Gruppen) und die Notenverwaltung hat. So lässt sich die Mitglieder- und Anlassverwaltung delegieren, ohne volle Adminrechte zu vergeben. Die Rolle wird wie die übrigen im Benutzerformular gesetzt. Siehe [Benutzer:innen verwalten](/admin/benutzer).
+
 18.6.2026 – **Notenverwaltung: Automatische Stimmenaufteilung**
 
 - Neu lässt sich ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, ein gescannter Stimmenstapel, oder beides in mehreren Dateien – **automatisch in einzelne, benannte Stimmen-PDFs zerlegen**. Die Seiten werden KI-gestützt gelesen, Instrument, Seitenzahl und Mehrfach-Kopien erkannt, zusammengehörende Seiten zu einer Stimme zusammengefügt und die Dateien nach eurem Nummernschema benannt. Ihr prüft das Resultat und ladet es als ZIP herunter. Siehe [Stimmenaufteilung](/noten/stimmenaufteilung).
