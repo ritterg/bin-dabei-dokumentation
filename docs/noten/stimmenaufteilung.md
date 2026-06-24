@@ -111,3 +111,24 @@ Die Dateien im ZIP heissen nach dem **oben gewählten Dateinamen-Muster** (Stand
 
 !!! note "Was die Aufteilung (noch) nicht kann"
     Komplett um 90° quer eingescannte Stücke werden nicht automatisch gedreht. Und so gut die Erkennung ist – ein kurzer Blick in die Vorschau lohnt sich, bevor du die Stimmen ins Archiv übernimmst.
+
+## 5. In den Cloud-Ordner ablegen (statt ZIP)
+
+Ist der Noten-Speicher deines Vereins mit **Schreibzugriff** eingerichtet, erscheint unter der Tabelle zusätzlich der Abschnitt **«In den Cloud-Ordner des Vereins ablegen»**. Damit landen die Stimmen in einem Schritt direkt als **neues Stück** in eurem Cloud-Speicher (Dropbox oder OneDrive) – du musst nichts herunterladen und von Hand hochladen.
+
+Du füllst aus:
+
+- **Zielordner** – ein Vorschlag aus Komponist und Titel ist schon eingetragen; du kannst ihn anpassen oder aus den bestehenden Ordnern wählen.
+- **Hörbeispiel (optional)** – eine Audiodatei (z.B. MP3), die gleich mit hochgeladen und am Stück verknüpft wird.
+- **Kategorien (optional)** – ordne das Stück gleich einer oder mehreren Kategorien zu (Mehrfachauswahl mit gedrückter Ctrl-/Cmd-Taste), dann musst du den Stückeintrag nachher nicht mehr bearbeiten.
+
+Ein Klick auf **«In Cloud-Ordner ablegen»** **speichert – wie der ZIP-Knopf – zuerst deine Korrekturen** und lädt dann die Stimmen im Hintergrund hoch (mit Fortschrittsanzeige). Danach erscheint der Link **«Jetzt Stimmenverteilung öffnen?»**, der dich direkt zur [Stimmen-Zuteilung](/noten/stimmen-zuteilen) des neuen Stücks bringt.
+
+!!! tip "One-Stop-Shop"
+    Aufteilen → ablegen → zuteilen in einem Durchgang: Das Stück ist nach dem Ablegen samt Stimmen-PDFs, Hörbeispiel und Kategorien fertig im Archiv – bereit zum Zuteilen an die Mitglieder.
+
+!!! warning "Bestehender Ordner"
+    Gibst du den Namen eines **bereits bestehenden** Ordners ein, wirst du gewarnt: Dateien mit gleichem Namen würden überschrieben. Du kannst trotzdem fortfahren (z.B. um Stimmen zu ergänzen) oder einen anderen Namen wählen.
+
+!!! note "Voraussetzung"
+    Der Ablege-Schritt erscheint nur, wenn der Noten-Speicher deines Vereins für das **Schreiben** eingerichtet ist. Ist nur Lesezugriff eingerichtet, siehst du wie bisher nur «Speichern» und «ZIP herunterladen». Möchtest du direkt ablegen können, melde dich bei [info@bin-dabei.ch](mailto:info@bin-dabei.ch) – wir verknüpfen euren Speicher einmalig neu mit Schreibrechten.

@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+24.6.2026 – **Stimmenaufteilung: direkt in den Cloud-Ordner ablegen**
+
+- Die [Stimmenaufteilung](/noten/stimmenaufteilung) kann die fertigen Stimmen neu **direkt in den Cloud-Speicher des Vereins** ablegen – als neues Stück, statt nur als ZIP zum Herunterladen. Du wählst den **Zielordner** (mit Vorschlag), kannst gleich ein **Hörbeispiel** und **Kategorien** mitgeben, und gelangst danach per Link direkt zur Stimmen-Zuteilung. Aufteilen, ablegen und zuteilen in einem Durchgang.
+- Der Ablege-Schritt erscheint nur, wenn der Noten-Speicher des Vereins mit **Schreibzugriff** eingerichtet ist – meldet euch, wenn ihr das möchtet.
+
 22.6.2026 – **Neue Berechtigungsstufe «Admin für Benutzer:innen und Anlässe»**
 
 - Zwischen «Absenzenkontrolle» und «Admin» gibt es neu eine Rolle, die **Benutzer:innen und Anlässe vollständig verwaltet** (inkl. Aufgebote, Absenzenkontrolle und Import/Export), aber **keinen** Zugriff auf die Vereinseinstellungen (Register, Instrumente, Gruppen) und die Notenverwaltung hat. So lässt sich die Mitglieder- und Anlassverwaltung delegieren, ohne volle Adminrechte zu vergeben. Die Rolle wird wie die übrigen im Benutzerformular gesetzt. Siehe [Benutzer:innen verwalten](/admin/benutzer).
