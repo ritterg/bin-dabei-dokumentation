@@ -2,10 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
-25.6.2026 – **OneDrive: persönliche Konten & bequemes Verbinden per Link**
+25.6.2026 – **OneDrive: persönliche Konten & selbst verbinden**
 
 - Der Noten-Speicher kann neu auch ein **persönliches Microsoft-Konto** (z.B. Microsoft 365 Family) sein – nicht nur OneDrive for Business. Lesen, Schreiben und der Noten-Ordner verhalten sich identisch; auch die [Stimmenaufteilung](/noten/stimmenaufteilung) kann fertige Stimmen direkt dort ablegen.
-- **Verbinden per Link:** Für OneDrive (geschäftlich wie persönlich) schicken wir dir neu einfach einen **Link**. Du öffnest ihn, meldest dich **direkt bei Microsoft** mit dem Vereinskonto an und bestätigst – fertig. Kein Passwort-Austausch: deine Zugangsdaten bekommen wir nie zu sehen. Mehr unter [Einrichten: Online-Speicher](/noten/einrichten).
+- **OneDrive selbst verbinden:** In den Vereinseinstellungen gibt es neu den Knopf **«OneDrive verbinden»** (geschäftlich wie persönlich). Du meldest dich **direkt bei Microsoft** mit dem Vereinskonto an, bestätigst und wählst gleich den **Ordner mit den Noten** aus – fertig. Kein Passwort-Austausch: deine Zugangsdaten bekommen wir nie zu sehen. Mehr unter [Einrichten: Online-Speicher](/noten/einrichten).
 
 24.6.2026 – **Stimmenaufteilung: direkt in den Cloud-Ordner ablegen**
 
