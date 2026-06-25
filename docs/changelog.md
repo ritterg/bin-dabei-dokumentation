@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+25.6.2026 – **Noten neu auch aus persönlichem OneDrive**
+
+- Der Noten-Speicher kann neu auch ein **persönliches Microsoft-Konto** (z.B. Microsoft 365 Family) sein – nicht nur OneDrive for Business. Lesen, Schreiben und der Noten-Ordner verhalten sich identisch; auch die [Stimmenaufteilung](/noten/stimmenaufteilung) kann fertige Stimmen direkt dort ablegen. Die Einrichtung übernehmen wir für dich – [melde dich einfach](mailto:info@bin-dabei.ch).
+
 24.6.2026 – **Stimmenaufteilung: direkt in den Cloud-Ordner ablegen**
 
 - Die [Stimmenaufteilung](/noten/stimmenaufteilung) kann die fertigen Stimmen neu **direkt in den Cloud-Speicher des Vereins** ablegen – als neues Stück, statt nur als ZIP zum Herunterladen. Du wählst den **Zielordner** (mit Vorschlag), kannst gleich ein **Hörbeispiel** und **Kategorien** mitgeben, und gelangst danach per Link direkt zur Stimmen-Zuteilung. Aufteilen, ablegen und zuteilen in einem Durchgang.
