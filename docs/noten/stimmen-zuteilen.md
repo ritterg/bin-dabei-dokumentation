@@ -24,11 +24,5 @@ Zum Schluss mit **«Speichern»** sichern. Jedes Mitglied sieht danach genau die
 !!! tip
     In der Regel weist du eine Stimme einem ganzen **Instrument** zu – z.B. die Datei «Klarinette 1» allen Mitgliedern mit dem Instrument «Klarinette 1». Mit der **Register**-Zuweisung triffst du dagegen alle eines Registers auf einmal (z.B. alle «Klarinetten»). Für Spezialfälle (eine Aushilfe, eine geteilte Stimme) korrigierst du danach einzelne Häkchen.
 
-## Zuteilung von Mitglied zu Mitglied kopieren
-
-Damit du eine ähnliche Zuteilung nicht für jedes Mitglied neu klicken musst, lässt sich die **komplette Stimmen-Zuteilung eines Mitglieds auf ein anderes kopieren** – praktisch, wenn z.B. eine neue Person dieselbe Stimme wie ein bestehendes Mitglied übernimmt. Die Funktion findest du auf der **Notenverwaltungs-Startseite** («Noten» → «Administration») **oben rechts** über der Stück-Liste: Wähle in den beiden Namens-Listen das Mitglied, **von** dem, und das Mitglied, **zu** dem kopiert werden soll, und klicke auf **«Kopieren»**.
-
-![Aufgeklapptes «Stimmenzuteilung kopieren» mit den zwei Namens-Listen und der Taste «Kopieren»](../img/noten-kopieren.png)
-
-!!! tip "Zuteilung eines anderen Mitglieds ansehen"
-    Auf der **Noten-Seite eines Mitglieds** kannst du als Admin über das **Namens-Dropdown** zur Ansicht eines anderen Mitglieds wechseln – praktisch, um schnell zu prüfen, wer welche Stimmen zugeteilt hat.
+!!! tip "Zuteilung von Mitglied zu Mitglied kopieren"
+    Übernimmt eine neue Person dieselben Stimmen wie ein bestehendes Mitglied, musst du sie nicht neu klicken – du kannst die ganze Zuteilung [von Mitglied zu Mitglied kopieren](/noten/stimmen-kopieren).

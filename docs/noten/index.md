@@ -15,4 +15,6 @@ Mit der Notenverwaltung organisierst du das Notenarchiv deines Vereins, teilst j
 4. **[Stück anlegen](/noten/stuecke)** – Titel, Kategorien und Hörbeispiel erfassen und auf den Noten-Ordner zeigen.
 5. **[Stimmen zuteilen](/noten/stimmen-zuteilen)** – die Stimmen den Mitgliedern zuweisen (einzeln, pro Register oder allen auf einmal). Voraussetzung sind die [Register & Instrumente](/admin/register-instrumente) des Vereins.
 
+Eine bestehende Zuteilung lässt sich übrigens [von Mitglied zu Mitglied kopieren](/noten/stimmen-kopieren) – praktisch, wenn eine neue Person dieselben Stimmen wie ein bestehendes Mitglied übernimmt.
+
 Für die Mitglieder-Sicht (Noten herunterladen) siehe [Noten (für Benutzer:innen)](/user/noten).
