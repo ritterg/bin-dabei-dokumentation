@@ -49,6 +49,7 @@ nav:
   - Notenverwaltung:
     - Übersicht: noten/index.md
     - Einrichten: noten/einrichten.md
+    - Stimmen bereitstellen: noten/bereitstellen.md
+    - Stimmenaufteilung: noten/stimmenaufteilung.md
     - Stücke & Kategorien: noten/stuecke.md
     - Stimmen zuteilen: noten/stimmen-zuteilen.md
-    - Stimmenaufteilung: noten/stimmenaufteilung.md

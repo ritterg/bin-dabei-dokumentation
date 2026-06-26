@@ -5,11 +5,11 @@
 Wenn die [Stimmen-PDFs eines Stücks](/noten/stuecke) im Online-Speicher liegen, weist du sie hier den Mitgliedern zu. Klicke beim Stück (in der [Stück-Liste](/noten/stuecke) oder der Kategorie-Spalte) auf **«Stimmen»**.
 
 !!! note "Voraussetzung: Register & Instrumente"
-    Die Mitglieder werden in der Zuteilungs-Matrix anhand ihres **Registers** gruppiert und sortiert. Lege darum vorher die [Register & Instrumente](/admin/register-instrumente) deines Vereins an und hinterlege bei jedem Mitglied das passende Instrument.
+    Die Mitglieder werden in der Zuteilungs-Matrix anhand ihres **Registers** und **Instruments** gruppiert und sortiert. Lege darum vorher die [Register & Instrumente](/admin/register-instrumente) deines Vereins an und hinterlege bei jedem Mitglied das passende Instrument.
 
 ## Die Zuteilungs-Matrix
 
-Du siehst eine Tabelle: **oben** die einzelnen Stimmen-PDFs des Stücks (eine Spalte pro Datei), **links** die Mitglieder, nach **Register** gruppiert und sortiert (daher lohnt sich das saubere Einrichten von [Registern & Instrumenten](/noten/einrichten)). In den Kreuzungspunkten setzt du das Häkchen, wenn ein Mitglied diese Stimme erhalten soll.
+Du siehst eine Tabelle: **oben** die einzelnen Stimmen-PDFs des Stücks (eine Spalte pro Datei), **links** die Mitglieder, nach **Register** gruppiert und sortiert (daher lohnt sich das saubere Einrichten von [Registern & Instrumenten](/admin/register-instrumente)). In den Kreuzungspunkten setzt du das Häkchen, wenn ein Mitglied diese Stimme erhalten soll.
 
 ![Zuteilungs-Matrix eines Stücks – Stimmen als Spalten, Mitglieder nach Register als Zeilen, mit gesetzten Häkchen](../img/noten-zuteilung.png)
 

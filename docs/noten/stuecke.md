@@ -4,6 +4,9 @@
 
 Das Repertoire deines Vereins verwaltest du unter **«Noten» → «Administration»**. Die Seite ist zweispaltig: links die **Kategorien**, rechts die **Stücke**.
 
+!!! tip "Tipp"
+    Lege ein Stück erst an, wenn seine **Stimmen-PDFs schon im Online-Speicher liegen** ([Stimmen bereitstellen](/noten/bereitstellen)). Sind sie da, kannst du beim Anlegen gleich den richtigen Ordner auswählen und das Stück in einem Rutsch erfassen.
+
 ![Admin-Seite «Noten» mit der Kategorien-Spalte links und der Stück-Liste rechts](../img/noten-admin.png)
 
 ## Kategorien
@@ -28,11 +31,4 @@ In der rechten Spalte siehst du alle Stücke deines Vereins.
 
 ![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 
-## Die Stimmen-PDFs des Stücks
-
-Die eigentlichen Noten liegen im [Online-Speicher](/noten/einrichten): Pro Stück gibt es einen **Ordner**, in dem **je eine PDF-Datei pro Einzelstimme** liegt (z.B. `04_Beispielstueck_Klarinette_1.pdf`, `04_Beispielstueck_Klarinette_2.pdf`, …). Genau diese Dateien erscheinen später auf der [Stimmen-Zuteilungsseite](/noten/stimmen-zuteilen) als Spalten.
-
-!!! warning "Sammel-PDF zuerst aufteilen"
-    Gekaufte Stücke kommen meist als **ein einziges Sammel-PDF** (Partitur + alle Stimmen in einer Datei). bin-dabei braucht aber **eine separate PDF-Datei pro Einzelstimme**. Du musst das Sammel-PDF also zuerst in die einzelnen Stimmen **aufteilen** – entweder von Hand (z.B. mit einem PDF-Programm) oder automatisch mit der [Stimmenaufteilung](/noten/stimmenaufteilung). Die entstandenen Einzelstimmen-PDFs legst du anschliessend in den Ordner des Stücks im Online-Speicher.
-
-Sind die Stimmen-PDFs im Ordner, geht es weiter mit dem [Zuteilen](/noten/stimmen-zuteilen).
+Ist das Stück erfasst, geht es weiter mit dem [Zuteilen der Stimmen](/noten/stimmen-zuteilen).

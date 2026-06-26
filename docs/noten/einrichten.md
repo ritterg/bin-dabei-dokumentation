@@ -9,4 +9,4 @@ Die Noten-PDFs liegen nicht in bin-dabei selbst, sondern in einem **Online-Speic
 
     **OneDrive selbst verbinden:** In den Vereinseinstellungen findest du den Knopf **«OneDrive verbinden»**. Du (oder die Person, die euer OneDrive-Konto verwaltet) öffnest den Link, meldest dich **direkt bei Microsoft** mit dem Vereinskonto an (geschäftlich oder persönlich), bestätigst – und wählst gleich den **Ordner mit den Noten** aus. Fertig. Dein Passwort bekommen wir dabei **nie** zu sehen; die Zugangsdaten werden **verschlüsselt** abgelegt. Auf der Vereins-Detailseite kannst du mit **«Verbindung testen»** prüfen, ob alles stimmt.
 
-Wie die Noten im Speicher organisiert werden (ein Ordner pro Stück, je eine PDF pro Stimme) und wie ein gekauftes Sammel-PDF dafür aufbereitet wird, liest du unter [Stücke & Kategorien](/noten/stuecke).
+Steht die Verbindung, geht es weiter mit **Schritt 3**: die [Stimmen bereitstellen](/noten/bereitstellen) (ein Ordner pro Stück, je eine PDF pro Stimme) – manuell oder per [Stimmenaufteilung](/noten/stimmenaufteilung). Danach legst du das [Stück an](/noten/stuecke).

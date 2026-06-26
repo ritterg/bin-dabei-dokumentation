@@ -2,6 +2,8 @@
 
 # Stimmenaufteilung
 
+Die Stimmenaufteilung ist der **automatische Weg, die [Stimmen-PDFs eines Stücks bereitzustellen](/noten/bereitstellen)** (Schritt 3 im [Ablauf](/noten)) – die Alternative zum manuellen Aufteilen mit einem PDF-Programm.
+
 Du hast ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, oder einen Stapel eingescannter Stimmen – und möchtest daraus einzelne, sauber benannte Stimmen-PDFs. Auch mehrere PDFs, die zum selben Stück gehören (z.B. Partitur und Stimmen in getrennten Dateien), kannst du zusammen verarbeiten. Die **Stimmenaufteilung** nimmt dir das ab: Sie liest jede Seite KI-gestützt, erkennt Instrument, Seitenzahl und Mehrfach-Kopien, fügt zusammengehörende Seiten zu einer Stimme zusammen und benennt die Dateien nach deinem Nummernschema. Du prüfst das Resultat und lädst es als ZIP herunter.
 
 !!! warning "Noch in Erprobung"
