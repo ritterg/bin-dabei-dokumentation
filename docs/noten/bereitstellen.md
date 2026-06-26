@@ -7,6 +7,8 @@ Damit bin-dabei jedem Mitglied genau seine Noten zeigen kann, braucht es pro St�
 !!! note "So liegen die Noten im Speicher"
     **Ein Ordner pro Stück**, darin **je eine PDF-Datei pro Einzelstimme** – zum Beispiel `04_Beispielstueck_Klarinette_1.pdf`, `04_Beispielstueck_Klarinette_2.pdf`, … Genau diese Dateien erscheinen später auf der [Stimmen-Zuteilungsseite](/noten/stimmen-zuteilen) als Spalten und beim Mitglied auf seiner [Noten-Seite](/user/noten).
 
+    Die Stück-Ordner liegen alle **direkt auf der obersten Ebene** des verbundenen Noten-Ordners – also **nicht** in weiteren Unterordnern verschachtelt.
+
 Gekaufte Stücke kommen meist als **ein einziges Sammel-PDF** (Partitur und alle Stimmen in einer Datei). Du musst es zuerst in die einzelnen Stimmen **aufteilen**. Dafür gibt es zwei Wege:
 
 ## a) Manuell aufteilen
