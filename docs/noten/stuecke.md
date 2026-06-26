@@ -29,6 +29,9 @@ In der rechten Spalte siehst du alle Stücke deines Vereins.
 - Über **«Ändern»** passt du diese Angaben später an, über **«Löschen»** entfernst du das Stück.
 - Mit **«Stimmen»** gelangst du zur [Zuteilung der Stimmen](/noten/stimmen-zuteilen) für dieses Stück.
 
+!!! tip "Hörbeispiele oberste Ebene"
+    Die Audiodateien für die Hörbeispiele liegen – wie die Stück-Ordner – **direkt auf der obersten Ebene** des dafür eingerichteten Sound-Ordners, nicht in weiteren Unterordnern. So erscheinen sie zuverlässig in der Auswahl.
+
 ![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 
 Ist das Stück erfasst, geht es weiter mit dem [Zuteilen der Stimmen](/noten/stimmen-zuteilen).
