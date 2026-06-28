@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+28.6.2026 – **Stimmenaufteilung: bessere Erkennung & einfacheres Korrigieren**
+
+- Stimmen, deren **Folgeseiten ganz ohne Kopfzeile** gedruckt sind (manche Verlage beschriften nur die erste Seite), werden jetzt zuverlässig zu **einer** Stimme zusammengefügt statt zerrissen.
+- Beim [Zusammenführen](/noten/stimmenaufteilung) falsch getrennter Stimmen wird eine versehentlich in zwei Hälften zerschnittene Seite wieder zur **ganzen Originalseite**. Ein Hinweis über der Ergebnis-Tabelle erinnert an diese Korrekturmöglichkeit.
+
 25.6.2026 – **OneDrive: persönliche Konten & selbst verbinden**
 
 - Der Noten-Speicher kann neu auch ein **persönliches Microsoft-Konto** (z.B. Microsoft 365 Family) sein – nicht nur OneDrive for Business. Lesen, Schreiben und der Noten-Ordner verhalten sich identisch; auch die [Stimmenaufteilung](/noten/stimmenaufteilung) kann fertige Stimmen direkt dort ablegen.

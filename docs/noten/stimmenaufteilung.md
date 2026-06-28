@@ -91,8 +91,10 @@ Was die Aufteilung dabei automatisch erledigt:
 - **Auf dem Kopf stehende Folgeseiten** werden – soweit automatisch erkannt – aufrecht gedreht; kontrolliere im Zweifel kurz die Vorschau.
 - Verlage drucken oft in GROSSBUCHSTABEN – Titel und Stimmennamen werden in normale Schreibweise gebracht.
 
-!!! tip "Zwei falsch getrennte Seiten zusammenführen"
-    Liest die KI eine mehrseitige Stimme versehentlich als zwei (z.B. «E Horn 2» und «Eb Horn 2»), gib einfach beiden dasselbe Instrument. Sobald zwei aufeinanderfolgende Zeilen identisch heissen, erscheint ein Häkchen **«↑ mit voriger zusammenführen»** (standardmässig angekreuzt). Beim Herunterladen werden die beiden Teile dann zu **einer** PDF verbunden.
+!!! tip "Falsch getrennte Stimme wieder zusammenführen"
+    Liest die KI eine mehrseitige Stimme versehentlich als zwei (z.B. «E Horn 2» und «Eb Horn 2»), gib einfach beiden dasselbe Instrument. Sobald zwei aufeinanderfolgende Zeilen identisch heissen, erscheint ein Häkchen **«↑ mit voriger zusammenführen»** (standardmässig angekreuzt). Beim Herunterladen werden die Teile dann zu **einer** PDF verbunden. Ein Hinweis über der Tabelle erinnert dich daran.
+
+    Das gilt auch, wenn eine **einzelne Seite** fälschlich in eine obere und eine untere Hälfte zerschnitten wurde (passiert manchmal, wenn ein Instrument mitten in der Stimme wechselt): Gib beiden Hälften denselben Namen und führe sie zusammen – sie werden wieder zur **ganzen Originalseite**.
 ### Plausibilitäts-Hinweise
 
 Über der Tabelle können zwei Hinweise erscheinen:
