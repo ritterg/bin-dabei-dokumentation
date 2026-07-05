@@ -5,7 +5,7 @@
 5.7.2026 – **Stimmenzuteilung: automatischer Vorschlag (Noten-KI-Paket)**
 
 - In der [Stimmenzuteilung](/noten/stimmen-zuteilen) gibt es neu den Knopf **«Verteilung vorschlagen»**: Er belegt die Zuteilungs-Matrix automatisch vor – jede Stimme wird den passenden Mitgliedern zugeordnet, anhand von **Instrument, Stimmen-Nummer und Schlüssel** (z.B. «Klarinette 1» nur den 1. Klarinetten, «Klarinette 1+2» beiden). Der Vorschlag ist **nicht bindend**: Ihr prüft, korrigiert und speichert wie gewohnt. Sind schon Häkchen gesetzt, fragt bin-dabei, ob **ersetzen** oder **ergänzen**.
-- Fehlt ein Instrument im Verein, greift ein sinnvoller **Ersatz** (z.B. Cornet-/Flügelhorn-Stimmen an die Trompeten). Funktioniert für **Harmonie** und **Brass Band** – inkl. kombinierter Stimmen wie «1st & 2nd Cornet» oder «Baritone 1&2», die beiden Registern vorgeschlagen werden.
+- Fehlt ein Instrument im Verein, greift ein sinnvoller **Ersatz** – z.B. gehen Cornet-/Flügelhorn-Stimmen an die Trompeten oder an ein bestimmtes Mitglied. Funktioniert für **Harmonie** und **Brass Band**.
 - Der Vorschlag ist Teil des **Noten-KI-Pakets** und wird zusammen mit der [Stimmenaufteilung](/noten/stimmenaufteilung) freigeschaltet – meldet euch, wenn ihr das Paket nutzen möchtet.
 
 28.6.2026 – **Stimmenaufteilung: bessere Erkennung & einfacheres Korrigieren**
