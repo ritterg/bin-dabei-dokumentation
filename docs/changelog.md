@@ -2,6 +2,12 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+4.7.2026 – **Stimmenzuteilung: automatischer Vorschlag**
+
+- In der [Stimmenzuteilung](/noten/stimmen-zuteilen) gibt es neu den Knopf **«Vorschlagen»**: Er belegt die Zuteilungs-Matrix automatisch vor – jede Stimme wird den passenden Mitgliedern zugeordnet, anhand von **Instrument, Stimmen-Nummer und Schlüssel** (z.B. «Klarinette 1» nur den 1. Klarinetten, «Klarinette 1+2» beiden). Der Vorschlag ist **nicht bindend**: Ihr prüft, korrigiert und speichert wie gewohnt. Sind schon Häkchen gesetzt, fragt bin-dabei, ob **ersetzen** oder **ergänzen**.
+- Fehlt ein Instrument im Verein, greift ein sinnvoller **Ersatz**: Cornet-/Flügelhorn-Stimmen gehen an die Trompeten, Tenorhorn an die Euphonien – aber nur, wenn es keine eigenen Spieler:innen dafür gibt.
+- Das Feature wird pro Verein freigeschaltet – meldet euch, wenn ihr es nutzen möchtet.
+
 28.6.2026 – **Stimmenaufteilung: bessere Erkennung & einfacheres Korrigieren**
 
 - Stimmen, deren **Folgeseiten ganz ohne Kopfzeile** gedruckt sind (manche Verlage beschriften nur die erste Seite), werden jetzt zuverlässig zu **einer** Stimme zusammengefügt statt zerrissen.
