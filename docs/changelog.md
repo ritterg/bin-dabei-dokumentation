@@ -2,10 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
-6.7.2026 – **Notenverwaltung: Stimmen kopieren mit «ergänzen oder ersetzen» & aufgeräumte Seite**
+6.7.2026 – **Notenverwaltung: aufgeräumte Seite & Stimmen kopieren mit «ergänzen oder ersetzen»**
 
-- Beim [Kopieren der Stimmen-Zuteilung](/noten/stimmen-kopieren) von einem Mitglied auf ein anderes wählt ihr neu, ob die bestehende Zuteilung des Zielmitglieds **ergänzt** (Standard – Vorhandenes bleibt, Neues kommt dazu) oder **ersetzt** wird (alles Bisherige wird zuerst entfernt). Bisher wurde immer ersetzt; bei «Ersetzen» fragt bin-dabei jetzt zur Sicherheit nach.
 - Die **Noten-Administrationsseite** ist übersichtlicher: Statt zwei nebeneinander liegender Listen gibt es neu **eine** Stück-Liste, die ihr per Knopf zwischen **«Nach Kategorie»** und **«Alphabetisch»** umschaltet (die Wahl bleibt für die Sitzung erhalten). Stücke ohne Kategorie erscheinen dabei zuunterst in einer Gruppe **«Ohne Kategorie»**. Rechts bündelt ein neuer **«Werkzeuge»**-Bereich Zusatzfunktionen wie **«Stimmenzuteilung kopieren»**.
+- Beim [Kopieren der Stimmen-Zuteilung](/noten/stimmen-kopieren) von einem Mitglied auf ein anderes wählt ihr neu, ob die bestehende Zuteilung des Zielmitglieds **ergänzt** (Standard – Vorhandenes bleibt, Neues kommt dazu) oder **ersetzt** wird (alles Bisherige wird zuerst entfernt). Bisher wurde immer ersetzt; bei «Ersetzen» fragt bin-dabei jetzt zur Sicherheit nach.
 
 5.7.2026 – **Stimmenzuteilung: automatischer Vorschlag (Noten-KI-Paket)**
 
