@@ -2,6 +2,12 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+7.7.2026 – **An-/Abmeldung: automatisches Speichern**
+
+- Beim [Einschreiben für Anlässe](/user/einschreiben) müsst ihr **nichts mehr speichern** – jede Wahl (Ja/Nein) und jede Bemerkung wird **sofort automatisch übernommen**. Ein Symbol neben dem Bemerkungsfeld zeigt den Stand (wird gespeichert / gespeichert / Hinweis). Damit gehen keine Eingaben mehr verloren, weil das Speichern vergessen wurde.
+- Ist die **Begründung bei einer Abmeldung obligatorisch**, wird ein «Nein» erst gespeichert, wenn eine gültige Begründung eingegeben ist (inkl. optionalem Muster gegen «faule» Eingaben). Ohne gültige Begründung erscheint ein rotes **!** und die Abmeldung ist noch nicht erfasst.
+- Auch die **Absenzenkontrolle** (nachträgliches Erfassen der tatsächlichen An-/Abwesenheiten für laufende und vergangene Anlässe) speichert jetzt sofort und wurde technisch erneuert.
+
 7.7.2026 – **Stimmen kopieren: wahlweise nur eine Kategorie**
 
 - Beim [Kopieren der Stimmen-Zuteilung](/noten/stimmen-kopieren) von einem Mitglied auf ein anderes könnt ihr neu eine **Kategorie** wählen und so nur deren Stücke kopieren (Standard bleibt «Alle Kategorien»). In Kombination mit **«Ersetzen»** wird dann auch nur **innerhalb dieser Kategorie** ersetzt – die Zuteilungen des Zielmitglieds in anderen Kategorien bleiben unverändert.
