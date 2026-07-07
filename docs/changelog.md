@@ -2,6 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+7.7.2026 – **Stimmen kopieren: wahlweise nur eine Kategorie**
+
+- Beim [Kopieren der Stimmen-Zuteilung](/noten/stimmen-kopieren) von einem Mitglied auf ein anderes könnt ihr neu eine **Kategorie** wählen und so nur deren Stücke kopieren (Standard bleibt «Alle Kategorien»). In Kombination mit **«Ersetzen»** wird dann auch nur **innerhalb dieser Kategorie** ersetzt – die Zuteilungen des Zielmitglieds in anderen Kategorien bleiben unverändert.
+
 6.7.2026 – **Notenverwaltung: aufgeräumte Seite & Stimmen kopieren mit «ergänzen oder ersetzen»**
 
 - Die **Noten-Administrationsseite** ist übersichtlicher: Statt zwei nebeneinander liegender Listen gibt es neu **eine** Stück-Liste, die ihr per Knopf zwischen **«Nach Kategorie»** und **«Alphabetisch»** umschaltet (die Wahl bleibt für die Sitzung erhalten). Stücke ohne Kategorie erscheinen dabei zuunterst in einer Gruppe **«Ohne Kategorie»**. Rechts bündelt ein neuer **«Werkzeuge»**-Bereich Zusatzfunktionen wie **«Stimmenzuteilung kopieren»**.
