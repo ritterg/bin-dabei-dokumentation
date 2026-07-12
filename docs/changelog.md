@@ -2,6 +2,12 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+12.7.2026 – **Anmelden mit Passkey (ohne Passwort)**
+
+- Ihr könnt euch neu mit einem **Passkey** anmelden – per Fingerabdruck, Face ID, Touch ID, Windows Hello oder Geräte-PIN, **ganz ohne Passwort**. Das ist bequemer und schützt vor Phishing.
+- Passkeys sind **freiwillig und zusätzlich**: Das Passwort funktioniert unverändert weiter. Einen Passkey richtet ihr nach dem Anmelden unter **Benutzermenü › Passkeys** ein; auf der Login-Seite gibt es dann die Taste **«Mit Passkey anmelden»**.
+- **Ein Passkey genügt für alle Vereine**, in denen ihr Mitglied seid. Auf Apple-Geräten synchronisieren Passkeys über iCloud (am Mac angelegt, am iPhone nutzbar). Alles dazu: [Anmelden mit Passkey](/user/passkeys).
+
 7.7.2026 – **An-/Abmeldung: automatisches Speichern**
 
 - Beim [Einschreiben für Anlässe](/user/einschreiben) müsst ihr **nichts mehr speichern** – jede Wahl (Ja/Nein) und jede Bemerkung wird **sofort automatisch übernommen**. Ein Symbol neben dem Bemerkungsfeld zeigt den Stand (wird gespeichert / gespeichert / Hinweis). Damit gehen keine Eingaben mehr verloren, weil das Speichern vergessen wurde.

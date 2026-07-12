@@ -30,6 +30,7 @@ nav:
   - Was gibt es Neues?: changelog.md
   - Für Benutzer:innen: 
     - Übersicht: user/index.md
+    - Anmelden mit Passkey: user/passkeys.md
     - Einschreiben für Anlässe: user/einschreiben.md
     - Probenplan als PDF: user/probenplan.md
     - Probenplan als Kalender-Abo: user/kalenderabo.md
