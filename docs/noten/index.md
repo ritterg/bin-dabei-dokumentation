@@ -3,7 +3,7 @@
 # Notenverwaltung
 
 !!! note "Optionales Zusatzmodul"
-    Die Notenverwaltung muss für deinen Verein **freigeschaltet** sein. Sie erscheint dann im Menü unter **«Noten» → «Administration»**. Bearbeiten dürfen sie Vereinsadmins und Mitglieder mit der Rolle **Bibliothekar:in**.
+    Die Notenverwaltung muss für deinen Verein **freigeschaltet** sein. Sie erscheint dann im Menü unter **«Noten» → «Verwaltung»**. Bearbeiten dürfen sie Vereinsadmins und Mitglieder mit der Rolle **Bibliothekar:in**.
 
 Mit der Notenverwaltung organisierst du das Notenarchiv deines Vereins, teilst jedem Mitglied **stimmengenau** seine Noten zu und legst die PDF-Dateien in einem Online-Speicher (Dropbox oder OneDrive) ab. Die Mitglieder sehen und laden dann genau die Stimmen, die ihnen zugeteilt sind – am Computer wie am Handy.
 

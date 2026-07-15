@@ -2,7 +2,7 @@
 
 # Stücke & Kategorien
 
-Das Repertoire deines Vereins verwaltest du unter **«Noten» → «Administration»**. Links steht **eine Liste aller Stücke**, die du oben per Knopf zwischen **«Nach Kategorie»** (nach Schubladen gruppiert) und **«Alphabetisch»** umschaltest – die Wahl bleibt für die Sitzung erhalten. Oberhalb der Liste findest du auch die Knöpfe **«Neue Kategorie»** und **«Neues Stück»**. Rechts sammelt der Bereich **«Werkzeuge»** die Zusatzfunktionen wie **[«Stimmenzuteilung kopieren»](/noten/stimmen-kopieren)**.
+Das Repertoire deines Vereins verwaltest du unter **«Noten» → «Verwaltung»**. Links steht **eine Liste aller Stücke**, die du oben per Knopf zwischen **«Nach Kategorie»** (nach Schubladen gruppiert) und **«Alphabetisch»** umschaltest – die Wahl bleibt für die Sitzung erhalten. Oberhalb der Liste findest du auch die Knöpfe **«Neue Kategorie»** und **«Neues Stück»**. Rechts sammelt der Bereich **«Werkzeuge»** die Zusatzfunktionen wie **[«Stimmenzuteilung kopieren»](/noten/stimmen-kopieren)**.
 
 In der Ansicht **«Nach Kategorie»** erscheint zuunterst die Gruppe **«Ohne Kategorie»** mit allen Stücken, die (noch) keiner Kategorie zugeordnet sind – sie taucht nur auf, wenn es solche Stücke gibt.
 
