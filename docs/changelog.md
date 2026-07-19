@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+19.7.2026 – **Stimmenaufteilung: A3-Scans werden automatisch aufgerichtet und getrennt**
+
+- Gescannte **A3-Bögen** (gefaltete Stimmen-Hefte, zwei A4-Seiten pro Blatt) könnt ihr in der [Stimmenaufteilung](/noten/stimmenaufteilung) neu einfach so hochladen, wie sie aus dem Scanner kommen – auch **quer oder seitwärts** eingescannt. Die Blätter werden automatisch aufgerichtet, in der Falzmitte in einzelne A4-Seiten getrennt, **leere Rückseiten** weggelassen und die Seiten anhand der **gedruckten Seitenzahlen** in die richtige Reihenfolge gebracht (beim Broschürendruck liegt aussen die letzte neben der ersten Seite).
+- Auch **einzelne quer eingescannte Stimmen** dreht die Aufteilung jetzt automatisch aufrecht – bisher blieben sie seitwärts liegen.
+
 19.7.2026 – **Probenplan-PDF nur mit deinen Terminen**
 
 - Nutzt euer Verein [Gruppen](/admin/gruppen), gibt es auf der Startseite neu die Taste **«Probenplan (Nur meine Termine, PDF)»**: der [Probenplan](/user/probenplan) nur mit den Anlässen **deiner Gruppen** plus allen **gemeinsamen** Anlässen (ohne Gruppenzuordnung) – praktisch z.B. zum Ausdrucken für die Familie.

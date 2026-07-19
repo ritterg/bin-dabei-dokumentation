@@ -89,6 +89,8 @@ Was die Aufteilung dabei automatisch erledigt:
 - **Mehrfach-Kopien** derselben Stimme werden zu einer zusammengefasst (in der Spalte «Kopien» siehst du, wie viele es waren).
 - Die **Partitur** wird als eigene Stimme «Partitur» mitgeliefert.
 - **Auf dem Kopf stehende Folgeseiten** werden – soweit automatisch erkannt – aufrecht gedreht; kontrolliere im Zweifel kurz die Vorschau.
+- **Quer/seitwärts eingescannte Seiten** werden automatisch aufrecht gedreht.
+- **A3-Bögen** (gefaltete Stimmen-Hefte mit zwei A4-Seiten pro Blatt) kannst du einfach so hochladen, wie sie aus dem Scanner kommen: Die Blätter werden aufgerichtet, in der Falzmitte in einzelne Seiten getrennt und **leere Rückseiten** weggelassen. Weil beim Broschürendruck aussen die **letzte** neben der **ersten** Seite liegt, bringt die Aufteilung die Seiten anhand der **gedruckten Seitenzahlen** (bzw. der Taktzahlen) in die richtige Lesereihenfolge – in der Spalte «Hinweis» steht dann «pages reordered (booklet)». Konnte die Reihenfolge nicht sicher bestimmt werden, erscheint «page order not verified – please check»: Wirf dann kurz einen Blick in die Vorschau und korrigiere nötigenfalls mit einem PDF-Programm.
 - Verlage drucken oft in GROSSBUCHSTABEN – Titel und Stimmennamen werden in normale Schreibweise gebracht.
 
 !!! tip "Falsch getrennte Stimme wieder zusammenführen"
@@ -113,8 +115,8 @@ Zwei Tasten, die **beide zuerst deine Korrekturen speichern**:
 
 Die Dateien im ZIP heissen nach dem **oben gewählten Dateinamen-Muster** (Standard: `{sortiercode}_{komponist}_{titel}_{instrument}`), sodass sie in deinem Notenarchiv gleich richtig einsortiert sind.
 
-!!! note "Was die Aufteilung (noch) nicht kann"
-    Komplett um 90° quer eingescannte Stücke werden nicht automatisch gedreht. Und so gut die Erkennung ist – ein kurzer Blick in die Vorschau lohnt sich, bevor du die Stimmen ins Archiv übernimmst.
+!!! note "Kurz kontrollieren lohnt sich"
+    So gut die Erkennung ist – ein kurzer Blick in die Vorschau lohnt sich, bevor du die Stimmen ins Archiv übernimmst. Das gilt besonders bei Scans mit gedrehten oder A3-Seiten (siehe Hinweise in der Tabelle).
 
 ## 5. In den Cloud-Ordner ablegen (statt ZIP)
 
