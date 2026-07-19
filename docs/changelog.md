@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+19.7.2026 – **Dropbox selbst verbinden**
+
+- Den **Dropbox-Speicher** eures Vereins verbindet ihr neu **selbst** in den Vereinseinstellungen mit dem Knopf **«Dropbox verbinden»** – so, wie das für OneDrive schon länger geht. Ihr meldet euch direkt bei Dropbox an und wählt gleich den Noten-Ordner aus; bisher mussten wir das für euch einrichten.
+- Direkt nach der Ordnerwahl wird die Verbindung **automatisch geprüft**. Klappt etwas nicht, stellt ein Klick den vorherigen Stand wieder her.
+
 19.7.2026 – **Stimmenaufteilung: A3-Scans werden automatisch aufgerichtet und getrennt**
 
 - Gescannte **A3-Bögen** (gefaltete Stimmen-Hefte, zwei A4-Seiten pro Blatt) könnt ihr in der [Stimmenaufteilung](/noten/stimmenaufteilung) neu einfach so hochladen, wie sie aus dem Scanner kommen – auch **quer oder seitwärts** eingescannt. Die Blätter werden automatisch aufgerichtet, in der Falzmitte in einzelne A4-Seiten getrennt, **leere Rückseiten** weggelassen und die Seiten anhand der **gedruckten Seitenzahlen** in die richtige Reihenfolge gebracht (beim Broschürendruck liegt aussen die letzte neben der ersten Seite).
