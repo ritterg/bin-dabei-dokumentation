@@ -2,7 +2,10 @@
 
 # Neue Funktionen in bin-dabei.ch
 
-12.7.2026 – **Anmelden mit Passkey (ohne Passwort)**
+19.7.2026 – **Probenplan-PDF nur mit deinen Terminen**
+
+- Nutzt euer Verein [Gruppen](/admin/gruppen), gibt es auf der Startseite neu die Taste **«Probenplan (Nur meine Termine, PDF)»**: der [Probenplan](/user/probenplan) nur mit den Anlässen **deiner Gruppen** plus allen **gemeinsamen** Anlässen (ohne Gruppenzuordnung) – praktisch z.B. zum Ausdrucken für die Familie.
+- Das PDF ist im Kopf gekennzeichnet («Probenplan – Termine für …» bzw. «Probenplan – Alle Termine»), damit die persönliche Auswahl nicht mit dem vollständigen Plan verwechselt wird. Die bisherige Taste mit dem kompletten Plan bleibt unverändert.
 
 - Ihr könnt euch neu mit einem **Passkey** anmelden – per Fingerabdruck, Face ID, Touch ID, Windows Hello oder Geräte-PIN, **ganz ohne Passwort**. Das ist bequemer und schützt vor Phishing.
 - Passkeys sind **freiwillig und zusätzlich**: Das Passwort funktioniert unverändert weiter. Einen Passkey richtet ihr nach dem Anmelden unter **Benutzermenü › Passkeys** ein; auf der Login-Seite gibt es dann die Taste **«Mit Passkey anmelden»**.
