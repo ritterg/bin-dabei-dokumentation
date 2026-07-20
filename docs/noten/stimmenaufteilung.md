@@ -103,6 +103,8 @@ Statt jede Stimme einzeln als PDF zu öffnen, prüfst du sie im **Betrachter**: 
 
 Liegt eine Stimme **quer** oder steht sie **auf dem Kopf**, drehst du sie gleich hier: Die Knöpfe ↺ ↻ oben drehen die **ganze Stimme**, die kleinen unter jeder Seite nur **diese eine Seite**. Die Drehung wird sofort angezeigt und beim **Speichern** übernommen – die fertigen PDFs sind dann richtig gedreht, egal ob du sie als ZIP herunterlädst oder in den Cloud-Ordner ablegst. Gedrehte Stimmen erkennst du in der Tabelle am Vermerk **↻ gedreht**.
 
+Manche Verlage setzen ein ganzes Stimmenheft **quer** auf die Seite. Erkennt die Aufteilung das, erscheint über der Tabelle ein Hinweis wie «29 von 30 Stimmen liegen vermutlich quer» – mit zwei Knöpfen, die **alle betroffenen Stimmen auf einmal** drehen. Die Richtung wählst du, denn die automatische Erkennung sieht zwar, *dass* eine Seite quer liegt, aber nicht, in welche Richtung sie gedreht werden muss. Betrifft es nur einzelne Stimmen, sind stattdessen diese Zeilen mit **«liegt quer?»** markiert.
+
 ### Plausibilitäts-Hinweise
 
 Über der Tabelle können zwei Hinweise erscheinen:

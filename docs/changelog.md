@@ -6,6 +6,7 @@
 
 - Die **Vorschau** in der [Stimmenaufteilung](/noten/stimmenaufteilung) öffnet die Stimme neu in einem **Betrachter**: nach unten scrollen zeigt ihre Seiten, mit **‹ ›** oder den Pfeiltasten blättert ihr zur vorherigen bzw. nächsten Stimme. Ihr könnt eine ganze Aufteilung so in einem Durchgang kontrollieren, statt jede Stimme einzeln in einem Tab zu öffnen.
 - Liegt eine Stimme **quer** oder steht sie **auf dem Kopf**, dreht ihr sie gleich dort – wahlweise die ganze Stimme oder einzelne Seiten. Die Drehung landet beim Speichern in den fertigen PDFs, sowohl im ZIP als auch im Cloud-Ordner.
+- Ist ein ganzes Stimmenheft **quer gesetzt** – das kommt bei manchen Verlagen vor –, meldet die Aufteilung das neu über der Tabelle («29 von 30 Stimmen liegen vermutlich quer») und ihr dreht **alle betroffenen Stimmen mit einem Klick**. Die Partitur bleibt dabei unangetastet, wenn sie korrekt liegt.
 
 19.7.2026 – **Dropbox selbst verbinden**
 
