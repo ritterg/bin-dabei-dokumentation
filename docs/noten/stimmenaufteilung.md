@@ -82,7 +82,7 @@ Die Tabelle listet alle erkannten Stimmen:
 | **Kopien** | Wie viele identische Exemplare im PDF gefunden wurden (es wird nur eines extrahiert). |
 | **Hinweis** | Automatische Anmerkungen, z.B. «4 copies → kept 1» oder «1 page(s) rotated 180°». |
 | **Dateiname** | Live-Vorschau, wie die Datei am Schluss heissen wird (gemäss «Dateinamen-Muster» oben). |
-| **Vorschau** | Öffnet die fertige Stimme als PDF in einem neuen Tab. |
+| **Vorschau** | Öffnet die Stimme im **Betrachter**: nach unten scrollen zeigt ihre Seiten, mit **‹ ›** (oder den Pfeiltasten) blätterst du zur vorherigen bzw. nächsten Stimme – ohne die Überprüfung zu verlassen. |
 
 Was die Aufteilung dabei automatisch erledigt:
 
@@ -97,6 +97,12 @@ Was die Aufteilung dabei automatisch erledigt:
     Liest die KI eine mehrseitige Stimme versehentlich als zwei (z.B. «E Horn 2» und «Eb Horn 2»), gib einfach beiden dasselbe Instrument. Sobald zwei aufeinanderfolgende Zeilen identisch heissen, erscheint ein Häkchen **«↑ mit voriger zusammenführen»** (standardmässig angekreuzt). Beim Herunterladen werden die Teile dann zu **einer** PDF verbunden. Ein Hinweis über der Tabelle erinnert dich daran.
 
     Das gilt auch, wenn eine **einzelne Seite** fälschlich in eine obere und eine untere Hälfte zerschnitten wurde (passiert manchmal, wenn ein Instrument mitten in der Stimme wechselt): Gib beiden Hälften denselben Namen und führe sie zusammen – sie werden wieder zur **ganzen Originalseite**.
+### Stimmen ansehen und drehen
+
+Statt jede Stimme einzeln als PDF zu öffnen, prüfst du sie im **Betrachter**: Klick auf **«Vorschau»** in einer Zeile. Nach unten scrollen zeigt alle Seiten dieser Stimme, mit **‹** und **›** – oder den Pfeiltasten – wechselst du zur vorherigen bzw. nächsten Stimme. So gehst du eine Aufteilung in einem Durchgang durch. Mit dem PDF-Symbol öffnest du eine Stimme bei Bedarf weiterhin als Datei.
+
+Liegt eine Stimme **quer** oder steht sie **auf dem Kopf**, drehst du sie gleich hier: Die Knöpfe ↺ ↻ oben drehen die **ganze Stimme**, die kleinen unter jeder Seite nur **diese eine Seite**. Die Drehung wird sofort angezeigt und beim **Speichern** übernommen – die fertigen PDFs sind dann richtig gedreht, egal ob du sie als ZIP herunterlädst oder in den Cloud-Ordner ablegst. Gedrehte Stimmen erkennst du in der Tabelle am Vermerk **↻ gedreht**.
+
 ### Plausibilitäts-Hinweise
 
 Über der Tabelle können zwei Hinweise erscheinen:

@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+20.7.2026 – **Stimmenaufteilung: Stimmen durchblättern und drehen**
+
+- Die **Vorschau** in der [Stimmenaufteilung](/noten/stimmenaufteilung) öffnet die Stimme neu in einem **Betrachter**: nach unten scrollen zeigt ihre Seiten, mit **‹ ›** oder den Pfeiltasten blättert ihr zur vorherigen bzw. nächsten Stimme. Ihr könnt eine ganze Aufteilung so in einem Durchgang kontrollieren, statt jede Stimme einzeln in einem Tab zu öffnen.
+- Liegt eine Stimme **quer** oder steht sie **auf dem Kopf**, dreht ihr sie gleich dort – wahlweise die ganze Stimme oder einzelne Seiten. Die Drehung landet beim Speichern in den fertigen PDFs, sowohl im ZIP als auch im Cloud-Ordner.
+
 19.7.2026 – **Dropbox selbst verbinden**
 
 - Den **Dropbox-Speicher** eures Vereins verbindet ihr neu **selbst** in den Vereinseinstellungen mit dem Knopf **«Dropbox verbinden»** – so, wie das für OneDrive schon länger geht. Ihr meldet euch direkt bei Dropbox an und wählt gleich den Noten-Ordner aus; bisher mussten wir das für euch einrichten.
