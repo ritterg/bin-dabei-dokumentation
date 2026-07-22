@@ -43,6 +43,7 @@ nav:
     - Benutzer:innen: admin/benutzer.md
     - Anlässe: admin/anlaesse.md
     - Verein: admin/verein.md
+    - Anwesenheitsplan: admin/plan.md
     - Register & Instrumente: admin/register-instrumente.md
     - Gruppen: admin/gruppen.md
     - Import: admin/import.md

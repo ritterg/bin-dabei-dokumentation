@@ -2,6 +2,13 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+22.7.2026 – **Anwesenheitsplan: Mitglieder per Drag & Drop platzieren**
+
+- Den [Anwesenheitsplan](/admin/plan) richtet ihr neu **per Drag & Drop** ein: Alle aktiven, noch **nicht platzierten** Mitglieder liegen als Karten (mit Name und Instrument) bereit – **Aushilfen** in einem eigenen Bereich. Ihr zieht die Karten einfach auf den gewünschten Platz im Raster, verschiebt sie zwischen Plätzen oder zieht sie zur Entfernung wieder zurück. Zieht ihr eine Karte auf einen besetzten Platz, tauschen die beiden Mitglieder die Plätze. Das mühsame Auswählen jedes Mitglieds über ein Auswahlfeld pro Feld entfällt. Funktioniert auch **auf Tablets** per Fingertipp.
+- Jede Änderung wird **sofort gespeichert** – ein Speichern-Knopf ist nicht mehr nötig.
+- Die **Beschriftungen** oberhalb und unterhalb eines Platzes (z.B. Register oder «Dirigent») bearbeitet ihr per Klick auf die Beschriftung bzw. das Stift-Symbol; sie bleiben unabhängig von der platzierten Person erhalten.
+- Die **Rastergrösse** (Spalten und Zeilen) passt ihr neu mit **+/−** direkt im Editor an, ohne den Umweg über die Vereinseinstellungen. Verkleinern ist nur möglich, wenn die äusserste Zeile bzw. Spalte leer ist – so geht nichts versehentlich verloren.
+
 20.7.2026 – **Stimmenaufteilung: Stimmen durchblättern und drehen**
 
 - Die **Vorschau** in der [Stimmenaufteilung](/noten/stimmenaufteilung) öffnet die Stimme neu in einem **Betrachter**: nach unten scrollen zeigt ihre Seiten, mit **‹ ›** oder den Pfeiltasten blättert ihr zur vorherigen bzw. nächsten Stimme. Ihr könnt eine ganze Aufteilung so in einem Durchgang kontrollieren, statt jede Stimme einzeln in einem Tab zu öffnen.

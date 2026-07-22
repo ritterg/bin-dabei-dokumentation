@@ -12,6 +12,8 @@ Als **Logo** kann eine JPEG- oder PNG-Datei hochgeladen werden. Zur Anzeige wird
 ## Plan
 Der Grundplan für die Anzeige der An- und Abwesenheiten besteht aus einer bestimmten Anzahl von Zeilen und Spalten. Hier können **Breite** (Anzahl Spalten) und **Höhe** (Anzahl Zeilen) den Bedürfnissen des Vereins angepasst werden (standardmässig sind 15 Spalten und 12 Zeilen eingetragen).
 
+Die Grösse lässt sich auch direkt im Plan-Editor anpassen; wie du die Mitglieder auf dem Plan platzierst, zeigt die Seite [Anwesenheitsplan einrichten](/admin/plan).
+
 ## Abmeldungen und Warnungen
 
 ### Spätestmögliche Abmeldung
