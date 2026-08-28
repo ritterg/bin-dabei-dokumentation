@@ -2,6 +2,12 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+28.8.2026 – **Kalender-Abo: Vereinskürzel vor den Terminbezeichnungen**
+
+- In den [Vereinseinstellungen](/admin/verein) könnt ihr neu ein **Kürzel für das Kalender-Abo** hinterlegen (z.B. «MHA»). Es wird in den [abonnierten Kalendern](/user/kalenderabo) jeder Terminbezeichnung vorangestellt – aus «Probe» wird «MHA Probe». Wer in mehreren Vereinen mitmacht, kann die Termine damit in der Wochen- und Monatsansicht auseinanderhalten, wo das Kalenderprogramm nur die Bezeichnung anzeigt.
+- Das Feld ist **standardmässig leer** – ohne Eintrag ändert sich nichts. Erlaubt sind bis zu 10 Zeichen; kurz ist besser, denn das Kürzel nimmt der Terminbezeichnung Platz weg.
+- Das Kürzel wirkt **nur in den abonnierten Kalendern**: Terminliste, Probenplan und Aufgebots-Emails bleiben unverändert, ebenso der öffentliche Konzertkalender. Bei einem abgesagten Anlass steht die Absage zuvorderst («ABGESAGT! – MHA Probe»).
+
 22.7.2026 – **Anwesenheitsplan: Mitglieder per Drag & Drop platzieren**
 
 - Den [Anwesenheitsplan](/admin/plan) richtet ihr neu **per Drag & Drop** ein: Alle aktiven, noch **nicht platzierten** Mitglieder liegen als Karten (mit Name und Instrument) bereit – **Aushilfen** in einem eigenen Bereich. Ihr zieht die Karten einfach auf den gewünschten Platz im Raster, verschiebt sie zwischen Plätzen oder zieht sie zur Entfernung wieder zurück. Zieht ihr eine Karte auf einen besetzten Platz, tauschen die beiden Mitglieder die Plätze. Das mühsame Auswählen jedes Mitglieds über ein Auswahlfeld pro Feld entfällt. Funktioniert auch **auf Tablets** per Fingertipp.

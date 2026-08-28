@@ -10,6 +10,12 @@ Hier findest du die Links, mit denen sich die Termine deines Vereins als elektro
 
 **Achtung**: Kalender unbedingt *abonnieren* und *nicht importieren*, da er sich sonst nicht automatisch aktualisiert.
 
+## Termine mehrerer Vereine auseinanderhalten
+In der Wochen- und Monatsansicht der meisten Kalenderprogramme ist nur die Terminbezeichnung sichtbar, nicht der Kalender, aus dem sie stammt. Wer in mehreren Vereinen mitmacht, hat dort schnell zweimal "Probe" stehen. Zwei Wege helfen:
+
+- Die meisten Kalenderprogramme erlauben es, jedem Abonnement eine eigene **Farbe** zu geben und es umzubenennen. Das kostet keinen Platz und ist deshalb die erste Wahl.
+- Zusätzlich können die Admins in den [Vereinseinstellungen](/admin/verein) ein **Kürzel** hinterlegen, das allen Terminbezeichnungen vorangestellt wird – aus "Probe" wird dann z.B. "MHA Probe". Das gilt für alle Abonnent:innen des Vereins gemeinsam; wünschst du dir das, wende dich an eure Admins.
+
 ## Hilfe für Kalender-Abos
 Je nach Betriebssystem und Programm funktioniert das Abonnieren des Kalenders unterschiedlich. Untenstehend einige weiterführende Links:
 

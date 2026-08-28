@@ -37,7 +37,13 @@ Wird die Anzahl Tage oder die Liste der Emails freigelassen, werden für diese K
 ## Andere Einstellungen
 **Bezeichnung Probenplan:** Wenn das PDF mit den Terminen einen anderen Titel als "Probenplan" tragen soll (z.B. "Programm"), kann dieser hier eingetragen werden. Wird nichts eingetragen, wird standardmässig "Probenplan" verwendet.
 
-**Bezeichnung Abgesagt:** Anlässe können als "Abgesagt" markiert werden. Damit wird ein Anlass nicht gelöscht, sondern durchgestrichen dargestellt und der Titel mit einem vorangestellten Text versehen, der hier definiert ist. Standard ist "- ABGESAGT! –". Ist das Feld leer, wird kein zusätzlicher Text eingefügt.
+**Kürzel für Kalender-Abo:** Wer die Termine des Vereins als [Kalender abonniert](/user/kalenderabo), sieht in der Wochen- und Monatsansicht seines Kalenderprogramms nur die Terminbezeichnung – nicht aber, aus welchem Kalender sie stammt. Wer in mehreren Vereinen mitmacht, hat dort schnell zweimal "Probe" stehen. Mit einem Kürzel (z.B. "MHA") wird daraus "MHA Probe", und die Termine sind auf einen Blick auseinanderzuhalten.
+
+Das Kürzel wirkt nur in den abonnierten Kalendern, nicht innerhalb von bin-dabei: Terminliste, Probenplan und Aufgebots-Emails bleiben unverändert. Ebenfalls nicht betroffen ist der öffentliche Konzertkalender – dieser wird meist auf der Vereins-Website eingebunden, wo der Verein ohnehin klar ist.
+
+Erlaubt sind bis zu 10 Zeichen. Kurz ist besser: Das Kürzel steht vor jeder Terminbezeichnung und nimmt ihr Platz weg, und in der Monatsansicht ist dieser knapp. Ist das Feld leer (Standard), bleiben die Terminbezeichnungen unverändert. Eine Änderung wirkt sich auf alle bestehenden Abonnemente aus – die Kalenderprogramme übernehmen sie beim nächsten Abgleich von selbst.
+
+**Bezeichnung Abgesagt:** Anlässe können als "Abgesagt" markiert werden. Damit wird ein Anlass nicht gelöscht, sondern durchgestrichen dargestellt und der Titel mit einem vorangestellten Text versehen, der hier definiert ist. Standard ist "- ABGESAGT! –". Ist das Feld leer, wird kein zusätzlicher Text eingefügt. Ist zusätzlich ein Kürzel fürs Kalender-Abo gesetzt, steht die Absage zuvorderst ("ABGESAGT! – MHA Probe") – bei einem abgesagten Anlass ist die Absage die wichtigere Information.
 
 **Email-Tasten nur für Admins**: Auf der Startseite besteht die Möglichkeit, eine Email an alle Benutzer:innen zu generieren (siehe [Email an alle](/user/email)). Soll diese Funktion nur für Admins zur Verfügung stehen, kann das hier markiert werden.
 
