@@ -32,7 +32,7 @@ Zum Schluss mit **«Speichern»** sichern. Jedes Mitglied sieht danach genau die
 !!! note "Voraussetzung: saubere Instrumente & Dateinamen"
     Der Vorschlag ist nur so gut wie die hinterlegten [Instrumente](/admin/register-instrumente) und die Benennung der Stimmen-Dateien. Je genauer beides dem Schema entspricht, desto treffsicherer die Zuteilung.
 
-Der Zuteilungsvorschlag ist Teil des **Noten-KI-Pakets** (zusammen mit der [Stimmenaufteilung](/noten/stimmenaufteilung)) und wird auf Wunsch freigeschaltet – melde dich, wenn du das Paket nutzen möchtest.
+Der Zuteilungsvorschlag ist Teil des **Noten-KI-Pakets** (zusammen mit der [Stimmenaufteilung](/noten/stimmenaufteilung)) und wird auf Wunsch freigeschaltet – melde dich an [info@bin-dabei.ch](mailto:info@bin-dabei.ch), wenn du das Paket nutzen möchtest. Zu den Kosten siehe [Stimmenaufteilung](/noten/stimmenaufteilung).
 
 Ist er für deinen Verein aktiv, erscheint über der Tabelle der Knopf **«Verteilung vorschlagen»**. Er belegt die Matrix automatisch vor – jede Stimme wird den passenden Mitgliedern zugeordnet:
 

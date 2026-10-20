@@ -10,7 +10,9 @@ Du hast ein Sammel-PDF – eine Partitur mit allen Einzelstimmen, oder einen Sta
     Die Stimmenaufteilung steckt noch in der Testphase. Wenn etwas nicht klappt oder eine Stimme falsch aufgeteilt wird, melde es uns bitte an [info@bin-dabei.ch](mailto:info@bin-dabei.ch) – mit Angabe deines **Vereins** und des **Stücktitels**, damit wir es nachvollziehen können.
 
 !!! warning "Kosten"
-    Während der Testphase ist die Stimmenaufteilung für deinen Verein **kostenlos**. Im Hintergrund entstehen aber externe Kosten (der KI-Lesedienst). Für den regulären Betrieb behalten wir uns deshalb eine **Kostenbeteiligung** vor – voraussichtlich als **Pauschale**; die Details sind noch offen.
+    Bis **31.12.2026** ist das Noten-KI-Paket (Stimmenaufteilung und [Zuteilungsvorschlag](/noten/stimmen-zuteilen#automatischer-vorschlag)) für deinen Verein **kostenlos**. Ab **1.1.2027** kostet es **CHF 25 pro Jahr inkl. MWST**, darin sind **5'000 gelesene Seiten** pro Jahr enthalten.
+
+    Nutzt dein Verein das Paket schon, läuft es 2027 automatisch weiter. Wer es nicht mehr möchte, kündigt **bis 31.12.2026** per Mail an [info@bin-dabei.ch](mailto:info@bin-dabei.ch).
 
 !!! note "Seitenkontingent"
     Damit die Nutzung fair bleibt, hat jeder Verein ein **Seitenkontingent** pro Zeitraum (je nach Verein pro Tag, Monat oder Jahr – eingestellt durch die bin-dabei-Administration). Oben auf der Seite siehst du, **wie viele Seiten du im laufenden Zeitraum schon verbraucht hast** und **wann das Kontingent zurückgesetzt wird**. Gezählt werden die **gelesenen Seiten** eines Laufs.

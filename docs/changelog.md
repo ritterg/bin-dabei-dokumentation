@@ -2,6 +2,12 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+20.10.2026 – **Noten-KI: gratis bis Ende 2026, danach CHF 25 pro Jahr**
+
+- Das Noten-KI-Paket ([Stimmenaufteilung](/noten/stimmenaufteilung) und [Zuteilungsvorschlag](/noten/stimmen-zuteilen#automatischer-vorschlag)) bleibt bis **31.12.2026 kostenlos**.
+- Ab **1.1.2027** kostet es **CHF 25 pro Jahr inkl. MWST**, inklusive **5'000 gelesener Seiten** pro Jahr. Wer mehr braucht, meldet sich.
+- Vereine, die das Paket schon nutzen, behalten es automatisch. Wer es nicht mehr möchte, kündigt bis 31.12.2026 per Mail an [info@bin-dabei.ch](mailto:info@bin-dabei.ch).
+
 28.8.2026 – **Kalender-Abo: Vereinskürzel vor den Terminbezeichnungen**
 
 - In den [Vereinseinstellungen](/admin/verein) könnt ihr neu ein **Kürzel für das Kalender-Abo** hinterlegen (z.B. «MHA»). Es wird in den [abonnierten Kalendern](/user/kalenderabo) jeder Terminbezeichnung vorangestellt – aus «Probe» wird «MHA Probe». Wer in mehreren Vereinen mitmacht, kann die Termine damit in der Wochen- und Monatsansicht auseinanderhalten, wo das Kalenderprogramm nur die Bezeichnung anzeigt.
