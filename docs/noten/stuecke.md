@@ -34,6 +34,9 @@ In der Stück-Liste (links) siehst du alle Stücke deines Vereins – wahlweise 
 !!! tip "Hörbeispiele oberste Ebene"
     Die Audiodateien für die Hörbeispiele liegen – wie die Stück-Ordner – **direkt auf der obersten Ebene** des dafür eingerichteten Sound-Ordners, nicht in weiteren Unterordnern. So erscheinen sie zuverlässig in der Auswahl.
 
+!!! note "Hörbeispiel ersetzen"
+    Hast du ein Hörbeispiel überarbeitet und unter **demselben Namen** im Online-Speicher abgelegt, kann es **bis zu 2 Minuten** dauern, bis die Mitglieder die neue Version hören. Willst du nicht warten, öffnest du das Stück mit **«Ändern»** und speicherst es – dann ist die neue Version sofort da.
+
 ![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 
 Ist das Stück erfasst, geht es weiter mit dem [Zuteilen der Stimmen](/noten/stimmen-zuteilen).
