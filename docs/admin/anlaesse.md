@@ -56,5 +56,7 @@ In den Feldern **Ort**, **Programm/Noten**, **Tenue**, **Aushilfen** und **Bemer
 
 In den Feldern **Datei 1-3** können PDF-Dateien zu einem Anlass hochgeladen werden und wenn nötig mit einer zusätzlichen Dateibezeichnung versehen werden. Wird keine Bezeichnung eingegeben, wird der jeweilige Dateiname angezeigt.
 
+Wer einen Eintrag erstellt und zuletzt geändert hat, steht unten in der Detailansicht, siehe [Wer hat was geändert?](/admin#wer-hat-was-geandert).
+
 ## Import
 Gerade zum Starten müssen Anlässe nicht einzeln von Hand angelegt werden, sondern können auch aus einer Excel-Datei importiert werden. Siehe [Import](/admin/import).

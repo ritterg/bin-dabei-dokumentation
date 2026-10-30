@@ -39,4 +39,6 @@ In der Stück-Liste (links) siehst du alle Stücke deines Vereins – wahlweise 
 
 ![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 
+Wer ein Stück erfasst und zuletzt geändert hat, steht unten in seiner Detailansicht, siehe [Wer hat was geändert?](/admin#wer-hat-was-geandert).
+
 Ist das Stück erfasst, geht es weiter mit dem [Zuteilen der Stimmen](/noten/stimmen-zuteilen).

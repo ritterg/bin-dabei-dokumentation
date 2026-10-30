@@ -48,5 +48,7 @@ Wird ein **Dispens** mit Anfangs- und Enddatum eingetragen, erscheint der/die Be
 !!! warning "ACHTUNG"
     Benutzer:innen können mit mehreren Vereinen verknüpft sein. Bitte keine Benutzer:innen "recyclen", sondern nicht mehr benötigte Benutzer:in «löschen» (es wird nur die Verknüpfung zu diesem Verein gelöscht) und neue:n Benutzer:in anlegen.
 
+Wer die Personendaten bzw. die Mitgliedschaft erstellt und zuletzt geändert hat, steht unten in der Detailansicht, siehe [Wer hat was geändert?](/admin#wer-hat-was-geandert).
+
 ## Import
 Gerade zum Starten müssen Benutzer:innen nicht einzeln von Hand angelegt werden, sondern können auch aus einer Excel-Datei importiert werden. Siehe [Import](/admin/import).
