@@ -40,7 +40,7 @@ In der Stück-Liste (links) siehst du alle Stücke deines Vereins – wahlweise 
 !!! tip "Mehrere Hörbeispiele pro Stück"
     Mit **+** fügst du weitere Hörbeispiele hinzu, mit **×** entfernst du eines. Das ist praktisch, wenn es neben der Gesamtaufnahme eine Übungsdatei pro Stimme gibt, etwa im Chor für Sopran, Alt, Tenor und Bass. Zu jedem Hörbeispiel kannst du eine **Bezeichnung** angeben (z.B. «Gesamt» oder «Sopran»); sie erscheint bei den Mitgliedern über dem Player. Ohne Bezeichnung siehst du nur den Player, wie bisher. Die Hörbeispiele erscheinen in der Reihenfolge, in der sie im Formular stehen, und alle Mitglieder sehen alle Hörbeispiele des Stücks.
 
-![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
+![Formular «Stück bearbeiten» mit Titel, Verzeichnis, Kategorie und zwei Hörbeispielen mit Bezeichnung](../img/noten-stueck-formular.png)
 
 Wer ein Stück erfasst und zuletzt geändert hat, steht unten in seiner Detailansicht, siehe [Wer hat was geändert?](/admin#wer-hat-was-geandert).
 
