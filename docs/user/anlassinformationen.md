@@ -19,4 +19,6 @@ Der linke Rand ist jeweils je nach Anmeldestatus unterschiedlich eingefärbt
 
 Mit den Tasten «Plan» und «Liste» kann angezeigt werden, wer an- oder abgemeldet ist, entweder in einem Übersichtsplan, der an die Sitzordnung im Orchester angelehnt ist, oder als Liste, die nach verschiedenen Kriterien sortiert werden kann.
 
+Ist die Liste nach **Stimme** sortiert (so öffnet sie sich), steht vor jedem **Register** eine graue Zwischenzeile mit dessen Namen. Ein Instrument, das keinem Register zugeordnet ist, erscheint unter seinem eigenen Namen. Hat jemand einen Kommentar zur An- oder Abmeldung hinterlassen, zeigt das ⓘ hinter dem Namen ihn an, sobald du mit der Maus darüber fährst.
+
 Ist der Anlass einer Gruppe zugeordnet, werden in Plan und Liste nur die betroffenen Mitglieder angezeigt; nicht betroffene Sitzplätze erscheinen hellgrau abgedunkelt.

@@ -30,5 +30,6 @@ Anschliessend legst du die einzelnen Instrumente an (z.B. Klarinette 1, Klarinet
 
 - **Einheitliche Bezeichnungen:** Alle Mitglieder verwenden dieselben Instrumentnamen – keine Varianten wie «Klar 1» / «1. Klarinette» / «Bb Clar.» durcheinander.
 - **Sinnvolle Sortierung:** Über die Reihenfolge der Register und Instrumente gibst du eine **Sortierung** vor. Damit lässt sich z.B. die [Mitgliederliste](/admin/benutzer) sinnvoll **nach Instrument** ordnen (in Registerreihenfolge statt alphabetisch).
+- **Zwischentitel in der Anwesenheitsliste:** In der [Liste zu einem Anlass](/user/anlassinformationen) erscheint jedes Register als Zwischentitel, solange nach Stimme sortiert ist. Ordne darum jedes Instrument einem Register zu; ein Instrument ohne Register steht dort unter seinem eigenen Namen.
 - **Anzeige im Anwesenheitsplan:** Auf Wunsch lassen sich die Instrumente im Anwesenheitsplan als **Label bei den Mitgliedern** anzeigen. Die Einstellung «Instrument für jede Person anzeigen» findest du unter **«Verein» → «Plan» → «Bearbeiten»**.
 - **Grundlage für die Notenverwaltung:** In der [Notenverwaltung](/noten) werden die Mitglieder anhand ihres Registers in der Zuteilungs-Matrix gruppiert – siehe [Stimmen zuteilen](/noten/stimmen-zuteilen).

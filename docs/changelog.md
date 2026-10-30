@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+30.10.2026 – **Anwesenheitsliste: Register als Zwischentitel**
+
+- Die [Liste zu einem Anlass](/user/anlassinformationen) zeigt neu vor jedem **Register** eine Zwischenzeile, solange sie nach Stimme sortiert ist. So siehst du auf einen Blick, wie gut ein Register besetzt ist. Instrumente ohne Register erscheinen unter ihrem eigenen Namen; Vereine ohne Register sehen die Liste wie bisher.
+- Das ⓘ für Kommentare und Dispensationen steht jetzt auf derselben Zeile wie der Name.
+
 30.10.2026 – **Mehrere Hörbeispiele pro Stück**
 
 - Ein [Stück](/noten/stuecke#stucke) kann neu **beliebig viele Hörbeispiele** haben, zum Beispiel die Gesamtaufnahme und dazu eine Übungsdatei pro Stimme (Sopran, Alt, Tenor, Bass). Im Formular fügst du sie mit **+** hinzu.
