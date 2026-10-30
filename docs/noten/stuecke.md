@@ -27,7 +27,7 @@ In der Stück-Liste (links) siehst du alle Stücke deines Vereins – wahlweise 
     - **Titel** des Stücks
     - **Verzeichnis** (der Ordner im [Online-Speicher](/noten/einrichten), in dem die Stimmen-PDFs liegen)
     - **Kategorie** (in welche Schublade das Stück gehört)
-    - optional ein **Hörbeispiel** (Audiodatei), das die Mitglieder anhören können
+    - optional ein oder mehrere **Hörbeispiele** (Audiodateien), die die Mitglieder anhören können
 - Über **«Ändern»** passt du diese Angaben später an, über **«Löschen»** entfernst du das Stück.
 - Mit **«Stimmen»** gelangst du zur [Zuteilung der Stimmen](/noten/stimmen-zuteilen) für dieses Stück.
 
@@ -36,6 +36,9 @@ In der Stück-Liste (links) siehst du alle Stücke deines Vereins – wahlweise 
 
 !!! note "Hörbeispiel ersetzen"
     Hast du ein Hörbeispiel überarbeitet und unter **demselben Namen** im Online-Speicher abgelegt, kann es **bis zu 2 Minuten** dauern, bis die Mitglieder die neue Version hören. Willst du nicht warten, öffnest du das Stück mit **«Ändern»** und speicherst es – dann ist die neue Version sofort da.
+
+!!! tip "Mehrere Hörbeispiele pro Stück"
+    Mit **+** fügst du weitere Hörbeispiele hinzu, mit **×** entfernst du eines. Das ist praktisch, wenn es neben der Gesamtaufnahme eine Übungsdatei pro Stimme gibt, etwa im Chor für Sopran, Alt, Tenor und Bass. Zu jedem Hörbeispiel kannst du eine **Bezeichnung** angeben (z.B. «Gesamt» oder «Sopran»); sie erscheint bei den Mitgliedern über dem Player. Ohne Bezeichnung siehst du nur den Player, wie bisher. Die Hörbeispiele erscheinen in der Reihenfolge, in der sie im Formular stehen, und alle Mitglieder sehen alle Hörbeispiele des Stücks.
 
 ![Formular «Neues Stück» mit Titel, Verzeichnis, Kategorie und Hörbeispiel](../img/noten-stueck-formular.png)
 

@@ -2,6 +2,11 @@
 
 # Neue Funktionen in bin-dabei.ch
 
+30.10.2026 – **Mehrere Hörbeispiele pro Stück**
+
+- Ein [Stück](/noten/stuecke#stucke) kann neu **beliebig viele Hörbeispiele** haben, zum Beispiel die Gesamtaufnahme und dazu eine Übungsdatei pro Stimme (Sopran, Alt, Tenor, Bass). Im Formular fügst du sie mit **+** hinzu.
+- Jedes Hörbeispiel kann eine **Bezeichnung** erhalten, die über dem Player erscheint. Sie ist freiwillig: Bestehende Hörbeispiele haben keine und sehen aus wie bisher.
+
 20.10.2026 – **Noten-KI: gratis bis Ende 2026, danach CHF 25 pro Jahr**
 
 - Das Noten-KI-Paket ([Stimmenaufteilung](/noten/stimmenaufteilung) und [Zuteilungsvorschlag](/noten/stimmen-zuteilen#automatischer-vorschlag)) bleibt bis **31.12.2026 kostenlos**.
